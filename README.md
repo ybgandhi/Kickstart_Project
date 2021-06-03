@@ -7,7 +7,7 @@ Background: Football is one of the most popular American sports. Some of the mos
 Data sets to be used:
 * Webscraping: to pull Geographic Locations of each NFL stadium (https://sites.google.com/site/32nflteamsabsoluteandrelative/)
 * CSV: data of every single NFL Game sheduled since 1967 (https://www.kaggle.com/kamilorszulak/nfl-schedule-by-week)
-* OpenWeather API: to retrieve weather elements
+* World Weather Online to get free historical data from 07/2008 onwards (https://www.worldweatheronline.com/developer/api/docs/historical-weather-api.aspx)
 * Python Flask - MongoDB
 * D3 library to show geographic points of the stadiums based on location
 * Google Library to display charts
