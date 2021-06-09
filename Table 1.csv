@@ -1,0 +1,81 @@
+Full Date,Time,time_conv,time_index,Week,City,Home Team,Winner,Latitude,Longitude,Starting Game Temp (F),weatherDesc,cloudcover
+2008-09-04,7:08PM,1900,18,1,New York,Giants,Giants,40.43,-74.01,72,{'value': 'Clear'},0
+2008-09-07,1:02PM,1300,12,1,Philadelphia,Eagles,Eagles,39.57,-75.07,82,{'value': 'Partly cloudy'},38
+2008-09-07,1:02PM,1300,12,1,Miami,Dolphins,Jets,25.46,-80.12,59,{'value': 'Light rain shower'},97
+2008-09-07,1:02PM,1300,12,1,New England,Patriots,Patriots,42.21,-71.04,82,{'value': 'Partly cloudy'},38
+2008-09-07,1:02PM,1300,12,1,Pittsburgh,Steelers,Steelers,40.26,-80.0,72,{'value': 'Sunny'},14
+2008-09-07,1:02PM,1300,12,1,Buffalo,Bills,Bills,42.54,-78.53,82,{'value': 'Partly cloudy'},38
+2008-09-07,1:05PM,1300,12,1,Tennessee,Titans,Titans,36.09,-86.48,,,
+2008-09-07,1:06PM,1300,12,1,Baltimore,Ravens,Ravens,39.17,-76.37,82,{'value': 'Partly cloudy'},38
+2008-09-07,4:15PM,1600,15,1,San Diego,Chargers,Panthers,32.43,-118.09,76,{'value': 'Partly cloudy'},29
+2008-09-07,4:16PM,1600,15,1,Cleveland,Browns,Cowboys,41.3,-81.41,80,{'value': 'Sunny'},0
+2008-09-07,4:16PM,1600,15,1,San Francisco,49ers,Cardinals,37.48,-122.24,61,{'value': 'Partly cloudy'},57
+2008-09-07,8:23PM,2000,19,1,Indianapolis,Colts,Bears,39.46,-86.09,77,{'value': 'Clear'},16
+2008-09-08,7:10PM,1900,18,1,Green Bay,Packers,Packers,44.3,-88.01,56,{'value': 'Light rain shower'},89
+2008-09-08,10:22PM,2200,21,1,Oakland,Raiders,Broncos,37.47,-122.13,57,{'value': 'Patchy rain possible'},35
+2008-09-14,1:00PM,1300,12,2,St. Louis,Rams,Giants,38.38,-90.11,94,{'value': 'Sunny'},2
+2008-09-14,1:00PM,1300,12,2,Kansas City,Chiefs,Raiders,39.06,-94.37,77,{'value': 'Torrential rain shower'},66
+2008-09-14,1:02PM,1300,12,2,Cincinnati,Bengals,Titans,39.06,-84.31,77,{'value': 'Torrential rain shower'},66
+2008-09-14,1:03PM,1300,12,2,Washington,Redskins,Redskins,38.54,-77.01,94,{'value': 'Sunny'},2
+2008-09-14,1:03PM,1300,12,2,Jacksonville,Jaguars,Bills,30.2,-81.4,64,{'value': 'Sunny'},0
+2008-09-14,1:03PM,1300,12,2,Carolina,Panthers,Panthers,35.14,-80.5,80,{'value': 'Partly cloudy'},47
+2008-09-14,4:05PM,1600,15,2,Tampa Bay,Buccaneers,Buccaneers,,,81,{'value': 'Moderate or heavy rain shower'},71
+2008-09-14,4:06PM,1600,15,2,Seattle,Seahawks,49ers,47.36,-122.2,66,{'value': 'Sunny'},3
+2008-09-14,4:15PM,1600,15,2,Denver,Broncos,Broncos,39.43,-105.01,78,{'value': 'Moderate or heavy rain shower'},48
+2008-09-14,4:15PM,1600,15,2,New York,Jets,Patriots,40.43,-74.01,66,{'value': 'Sunny'},3
+2008-09-14,4:15PM,1600,15,2,Arizona,Cardinals,Cardinals,33.27,-112.05,66,{'value': 'Sunny'},3
+2008-09-14,8:23PM,2000,19,2,Cleveland,Browns,Steelers,41.3,-81.41,57,{'value': 'Clear'},0
+2008-09-21,1:02PM,1300,12,3,Tennessee,Titans,Titans,36.09,-86.48,,,
+2008-09-21,1:02PM,1300,12,3,New York,Giants,Giants,40.43,-74.01,79,{'value': 'Sunny'},24
+2008-09-21,1:02PM,1300,12,3,Washington,Redskins,Redskins,38.54,-77.01,79,{'value': 'Sunny'},17
+2008-09-21,1:02PM,1300,12,3,Buffalo,Bills,Bills,42.54,-78.53,89,{'value': 'Sunny'},8
+2008-09-21,1:02PM,1300,12,3,New England,Patriots,Dolphins,42.21,-71.04,89,{'value': 'Sunny'},8
+2008-09-21,1:02PM,1300,12,3,Chicago,Bears,Buccaneers,41.53,-87.38,67,{'value': 'Sunny'},6
+2008-09-21,4:06PM,1600,15,3,Denver,Broncos,Broncos,39.43,-105.01,87,{'value': 'Sunny'},6
+2008-09-21,4:06PM,1600,15,3,San Francisco,49ers,49ers,37.48,-122.24,63,{'value': 'Sunny'},5
+2008-09-21,4:06PM,1600,15,3,Seattle,Seahawks,Seahawks,47.36,-122.2,81,{'value': 'Partly cloudy'},27
+2008-09-21,4:14PM,1600,15,3,Philadelphia,Eagles,Eagles,39.57,-75.07,87,{'value': 'Sunny'},6
+2008-09-21,4:15PM,1600,15,3,Indianapolis,Colts,Jaguars,39.46,-86.09,87,{'value': 'Sunny'},6
+2008-09-21,4:16PM,1600,15,3,Baltimore,Ravens,Ravens,39.17,-76.37,87,{'value': 'Sunny'},6
+2008-09-21,8:23PM,2000,19,3,Green Bay,Packers,Cowboys,44.3,-88.01,73,{'value': 'Clear'},11
+2008-09-22,8:40PM,2000,19,3,San Diego,Chargers,Chargers,32.43,-118.09,74,{'value': 'Clear'},11
+2008-09-28,1:00PM,1300,12,4,Kansas City,Chiefs,Chiefs,39.06,-94.37,85,{'value': 'Partly cloudy'},56
+2008-09-28,1:02PM,1300,12,4,Jacksonville,Jaguars,Jaguars,30.2,-81.4,84,{'value': 'Sunny'},3
+2008-09-28,1:02PM,1300,12,4,Cincinnati,Bengals,Browns,39.06,-84.31,85,{'value': 'Partly cloudy'},56
+2008-09-28,1:02PM,1300,12,4,New York,Jets,Jets,40.43,-74.01,84,{'value': 'Sunny'},3
+2008-09-28,1:02PM,1300,12,4,Tampa Bay,Buccaneers,Buccaneers,,,90,{'value': 'Patchy rain possible'},46
+2008-09-28,1:03PM,1300,12,4,Tennessee,Titans,Titans,36.09,-86.48,,,
+2008-09-28,1:04PM,1300,12,4,Carolina,Panthers,Panthers,35.14,-80.5,73,{'value': 'Cloudy'},65
+2008-09-28,4:05PM,1600,15,4,Oakland,Raiders,Chargers,37.47,-122.13,56,{'value': 'Sunny'},16
+2008-09-28,4:05PM,1600,15,4,St. Louis,Rams,Bills,38.38,-90.11,75,{'value': 'Moderate or heavy rain shower'},63
+2008-09-28,8:23PM,2000,19,4,Chicago,Bears,Bears,41.53,-87.38,58,{'value': 'Clear'},23
+2008-09-29,8:40PM,2000,19,4,Pittsburgh,Steelers,Steelers,40.26,-80.0,64,{'value': 'Clear'},11
+2008-10-05,1:02PM,1300,12,5,Baltimore,Ravens,Titans,39.17,-76.37,83,{'value': 'Light rain shower'},46
+2008-10-05,1:02PM,1300,12,5,Green Bay,Packers,Falcons,44.3,-88.01,78,{'value': 'Sunny'},18
+2008-10-05,1:03PM,1300,12,5,New York,Giants,Giants,40.43,-74.01,78,{'value': 'Sunny'},18
+2008-10-05,1:03PM,1300,12,5,Miami,Dolphins,Dolphins,25.46,-80.12,60,{'value': 'Moderate rain'},100
+2008-10-05,1:04PM,1300,12,5,Carolina,Panthers,Panthers,35.14,-80.5,62,{'value': 'Sunny'},5
+2008-10-05,1:04PM,1300,12,5,Philadelphia,Eagles,Redskins,39.57,-75.07,83,{'value': 'Light rain shower'},46
+2008-10-05,4:05PM,1600,15,5,Denver,Broncos,Broncos,39.43,-105.01,82,{'value': 'Light rain shower'},68
+2008-10-05,4:15PM,1600,15,5,San Francisco,49ers,Patriots,37.48,-122.24,49,{'value': 'Sunny'},3
+2008-10-05,4:16PM,1600,15,5,Arizona,Cardinals,Cardinals,33.27,-112.05,80,{'value': 'Sunny'},8
+2008-10-05,8:23PM,2000,19,5,Jacksonville,Jaguars,Steelers,30.2,-81.4,72,{'value': 'Clear'},30
+2008-10-12,1:02PM,1300,12,6,Indianapolis,Colts,Colts,39.46,-86.09,78,{'value': 'Cloudy'},84
+2008-10-12,1:02PM,1300,12,6,Tampa Bay,Buccaneers,Buccaneers,,,84,{'value': 'Moderate or heavy rain shower'},37
+2008-10-12,1:02PM,1300,12,6,New York,Jets,Jets,40.43,-74.01,73,{'value': 'Cloudy'},74
+2008-10-12,1:03PM,1300,12,6,Washington,Redskins,Rams,38.54,-77.01,74,{'value': 'Sunny'},0
+2008-10-12,4:05PM,1600,15,6,Denver,Broncos,Jaguars,39.43,-105.01,74,{'value': 'Partly cloudy'},58
+2008-10-12,4:15PM,1600,15,6,Arizona,Cardinals,Cardinals,33.27,-112.05,75,{'value': 'Cloudy'},72
+2008-10-12,4:15PM,1600,15,6,San Francisco,49ers,Eagles,37.48,-122.24,57,{'value': 'Sunny'},24
+2008-10-12,4:16PM,1600,15,6,Seattle,Seahawks,Packers,47.36,-122.2,75,{'value': 'Cloudy'},72
+2008-10-12,8:20PM,2000,19,6,San Diego,Chargers,Chargers,32.43,-118.09,71,{'value': 'Partly cloudy'},53
+2008-10-13,8:41PM,2000,19,6,Cleveland,Browns,Browns,41.3,-81.41,65,{'value': 'Clear'},0
+2008-10-19,1:00PM,1300,12,7,Kansas City,Chiefs,Titans,39.06,-94.37,81,{'value': 'Sunny'},15
+2008-10-19,1:00PM,1300,12,7,St. Louis,Rams,Rams,38.38,-90.11,57,{'value': 'Sunny'},0
+2008-10-19,1:02PM,1300,12,7,Miami,Dolphins,Ravens,25.46,-80.12,56,{'value': 'Cloudy'},85
+2008-10-19,1:02PM,1300,12,7,Buffalo,Bills,Bills,42.54,-78.53,81,{'value': 'Sunny'},15
+2008-10-19,1:02PM,1300,12,7,New York,Giants,Giants,40.43,-74.01,68,{'value': 'Sunny'},0
+2008-10-19,1:02PM,1300,12,7,Chicago,Bears,Bears,41.53,-87.38,86,{'value': 'Sunny'},5
+2008-10-19,1:04PM,1300,12,7,Cincinnati,Bengals,Steelers,39.06,-84.31,81,{'value': 'Sunny'},15
+2008-10-19,1:04PM,1300,12,7,Carolina,Panthers,Panthers,35.14,-80.5,55,{'value': 'Sunny'},9
+2008-10-19,4:15PM,1600,15,7,Oakland,Raiders,Raiders,37.47,-122.13,56,{'value': 'Overcast'},100
