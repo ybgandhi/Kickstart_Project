@@ -11,3 +11,4 @@ Data sets to be used:
 * Python Flask - MongoDB
 * D3 library to show geographic points of the stadiums based on location
 * Google Library to display charts
+https://gist.github.com/dawnvoh/a1f513123f7b6a42577d for weather codes
