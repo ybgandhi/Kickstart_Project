@@ -1,0 +1,468 @@
+Full Date,Time,time_conv,time_index,Week,City,Home Team,Winner,Latitude,Longitude,Starting Game Temp (F),weatherDesc,cloudcover
+2013-12-22,1:02PM,1300,12,16,Cincinnati,Bengals,Bengals,39.06,-84.31,60,{'value': 'Sunny'},0
+2013-12-22,1:03PM,1300,12,16,Washington,Redskins,Cowboys,38.54,-77.01,70,{'value': 'Partly cloudy'},52
+2013-12-22,1:04PM,1300,12,16,Carolina,Panthers,Panthers,35.14,-80.5,35,{'value': 'Cloudy'},76
+2013-12-22,4:06PM,1600,15,16,Seattle,Seahawks,Cardinals,47.36,-122.2,24,{'value': 'Sunny'},7
+2013-12-22,4:25PM,1600,15,16,Green Bay,Packers,Steelers,44.3,-88.01,24,{'value': 'Sunny'},7
+2013-12-22,4:25PM,1600,15,16,Baltimore,Ravens,Patriots,39.17,-76.37,57,{'value': 'Sunny'},0
+2013-12-22,4:25PM,1600,15,16,San Diego,Chargers,Chargers,32.43,-118.09,24,{'value': 'Sunny'},7
+2013-12-22,8:30PM,2000,19,16,Philadelphia,Eagles,Eagles,39.57,-75.07,51,{'value': 'Clear'},3
+2013-12-23,8:40PM,2000,19,16,San Francisco,49ers,49ers,37.48,-122.24,48,{'value': 'Partly cloudy'},65
+2013-12-29,1:02PM,1300,12,17,Pittsburgh,Steelers,Steelers,40.26,-80.0,19,{'value': 'Cloudy'},68
+2013-12-29,1:02PM,1300,12,17,Tennessee,Titans,Titans,36.09,-86.48,,,
+2013-12-29,1:02PM,1300,12,17,Miami,Dolphins,Jets,25.46,-80.12,43,{'value': 'Sunny'},1
+2013-12-29,1:02PM,1300,12,17,Indianapolis,Colts,Colts,39.46,-86.09,60,{'value': 'Sunny'},1
+2013-12-29,1:02PM,1300,12,17,Cincinnati,Bengals,Bengals,39.06,-84.31,60,{'value': 'Sunny'},1
+2013-12-29,1:04PM,1300,12,17,New York,Giants,Giants,40.43,-74.01,19,{'value': 'Cloudy'},68
+2013-12-29,4:25PM,1600,15,17,Chicago,Bears,Packers,41.53,-87.38,61,{'value': 'Moderate rain at times'},65
+2013-12-29,4:25PM,1600,15,17,Arizona,Cardinals,49ers,33.27,-112.05,21,{'value': 'Cloudy'},82
+2013-12-29,4:25PM,1600,15,17,Oakland,Raiders,Broncos,37.47,-122.13,46,{'value': 'Partly cloudy'},45
+2013-12-29,4:25PM,1600,15,17,New England,Patriots,Patriots,42.21,-71.04,55,{'value': 'Sunny'},0
+2013-12-29,4:26PM,1600,15,17,San Diego,Chargers,Chargers,32.43,-118.09,21,{'value': 'Cloudy'},82
+2013-12-29,4:26PM,1600,15,17,Seattle,Seahawks,Seahawks,47.36,-122.2,21,{'value': 'Cloudy'},82
+2013-01-04,4:35PM,1600,15,WildCard,Indianapolis,Colts,Colts,39.46,-86.09,55,{'value': 'Cloudy'},82
+2013-01-04,8:14PM,2000,19,WildCard,Philadelphia,Eagles,Saints,39.57,-75.07,52,{'value': 'Overcast'},84
+2013-01-05,1:06PM,1300,12,WildCard,Cincinnati,Bengals,Chargers,39.06,-84.31,63,{'value': 'Partly cloudy'},29
+2013-01-05,4:40PM,1600,15,WildCard,Green Bay,Packers,49ers,44.3,-88.01,43,{'value': 'Sunny'},0
+2013-01-11,4:36PM,1600,15,Division,Seattle,Seahawks,Seahawks,47.36,-122.2,62,{'value': 'Sunny'},11
+2013-01-11,8:15PM,2000,19,Division,New England,Patriots,Patriots,42.21,-71.04,54,{'value': 'Clear'},15
+2013-01-12,1:05PM,1300,12,Division,Carolina,Panthers,49ers,35.14,-80.5,56,{'value': 'Partly cloudy'},38
+2013-01-12,4:40PM,1600,15,Division,Denver,Broncos,Broncos,39.43,-105.01,62,{'value': 'Overcast'},100
+2013-01-19,3:06PM,1500,14,ConfChamp,Denver,Broncos,Broncos,39.43,-105.01,63,{'value': 'Sunny'},1
+2013-01-19,6:42PM,1800,17,ConfChamp,Seattle,Seahawks,Seahawks,47.36,-122.2,51,{'value': 'Sunny'},0
+2013-02-02,6:32PM,1800,17,SuperBowl,Seattle,Seahawks,Seahawks,47.36,-122.2,45,{'value': 'Sunny'},0
+2014-09-04,8:42PM,2000,19,1,Seattle,Seahawks,Seahawks,47.36,-122.2,86,{'value': 'Clear'},6
+2014-09-07,1:00PM,1300,12,1,St. Louis,Rams,Vikings,38.38,-90.11,79,{'value': 'Sunny'},8
+2014-09-07,1:00PM,1300,12,1,Chicago,Bears,Bills,41.53,-87.38,82,{'value': 'Sunny'},0
+2014-09-07,1:02PM,1300,12,1,Baltimore,Ravens,Bengals,39.17,-76.37,93,{'value': 'Sunny'},11
+2014-09-07,1:02PM,1300,12,1,Philadelphia,Eagles,Eagles,39.57,-75.07,93,{'value': 'Sunny'},11
+2014-09-07,1:02PM,1300,12,1,Pittsburgh,Steelers,Steelers,40.26,-80.0,77,{'value': 'Sunny'},2
+2014-09-07,1:02PM,1300,12,1,New York,Jets,Jets,40.43,-74.01,77,{'value': 'Sunny'},2
+2014-09-07,1:02PM,1300,12,1,Kansas City,Chiefs,Titans,39.06,-94.37,93,{'value': 'Sunny'},11
+2014-09-07,1:03PM,1300,12,1,Miami,Dolphins,Dolphins,25.46,-80.12,66,{'value': 'Cloudy'},70
+2014-09-07,4:25PM,1600,15,1,Tampa Bay,Buccaneers,Panthers,27.57,-82.27,73,{'value': 'Partly cloudy'},45
+2014-09-07,8:30PM,2000,19,1,Denver,Broncos,Broncos,39.43,-105.01,80,{'value': 'Clear'},11
+2014-09-08,9:20PM,2100,20,1,Arizona,Cardinals,Cardinals,33.27,-112.05,78,{'value': 'Clear'},5
+2014-09-11,8:28PM,2000,19,2,Baltimore,Ravens,Ravens,39.17,-76.37,80,{'value': 'Clear'},20
+2014-09-14,1:02PM,1300,12,2,Buffalo,Bills,Bills,42.54,-78.53,92,{'value': 'Patchy rain possible'},34
+2014-09-14,1:03PM,1300,12,2,Tennessee,Titans,Cowboys,36.09,-86.48,,,
+2014-09-14,1:03PM,1300,12,2,Cleveland,Browns,Browns,41.3,-81.41,86,{'value': 'Sunny'},0
+2014-09-14,1:04PM,1300,12,2,New York,Giants,Cardinals,40.43,-74.01,73,{'value': 'Sunny'},21
+2014-09-14,1:04PM,1300,12,2,Carolina,Panthers,Panthers,35.14,-80.5,57,{'value': 'Cloudy'},66
+2014-09-14,1:05PM,1300,12,2,Cincinnati,Bengals,Bengals,39.06,-84.31,92,{'value': 'Patchy rain possible'},34
+2014-09-14,1:05PM,1300,12,2,Washington,Redskins,Redskins,38.54,-77.01,71,{'value': 'Sunny'},21
+2014-09-14,4:05PM,1600,15,2,San Diego,Chargers,Chargers,32.43,-118.09,79,{'value': 'Sunny'},5
+2014-09-14,4:05PM,1600,15,2,Tampa Bay,Buccaneers,Rams,27.57,-82.27,82,{'value': 'Sunny'},3
+2014-09-14,4:25PM,1600,15,2,Green Bay,Packers,Packers,44.3,-88.01,79,{'value': 'Sunny'},5
+2014-09-14,4:25PM,1600,15,2,Denver,Broncos,Broncos,39.43,-105.01,89,{'value': 'Sunny'},11
+2014-09-14,4:25PM,1600,15,2,Oakland,Raiders,Texans,37.47,-122.13,60,{'value': 'Sunny'},24
+2014-09-14,8:31PM,2000,19,2,San Francisco,49ers,Bears,37.48,-122.24,57,{'value': 'Clear'},23
+2014-09-15,8:31PM,2000,19,2,Indianapolis,Colts,Eagles,39.46,-86.09,81,{'value': 'Partly cloudy'},42
+2014-09-21,1:00PM,1300,12,3,St. Louis,Rams,Cowboys,38.38,-90.11,83,{'value': 'Sunny'},0
+2014-09-21,1:02PM,1300,12,3,Cleveland,Browns,Ravens,41.3,-81.41,74,{'value': 'Sunny'},3
+2014-09-21,1:02PM,1300,12,3,New York,Giants,Giants,40.43,-74.01,77,{'value': 'Sunny'},5
+2014-09-21,1:02PM,1300,12,3,Jacksonville,Jaguars,Colts,30.2,-81.4,77,{'value': 'Sunny'},5
+2014-09-21,1:02PM,1300,12,3,Buffalo,Bills,Chargers,42.54,-78.53,86,{'value': 'Partly cloudy'},48
+2014-09-21,1:02PM,1300,12,3,Cincinnati,Bengals,Bengals,39.06,-84.31,86,{'value': 'Partly cloudy'},48
+2014-09-21,1:02PM,1300,12,3,New England,Patriots,Patriots,42.21,-71.04,86,{'value': 'Partly cloudy'},48
+2014-09-21,1:02PM,1300,12,3,Philadelphia,Eagles,Eagles,39.57,-75.07,86,{'value': 'Partly cloudy'},48
+2014-09-21,4:05PM,1600,15,3,Arizona,Cardinals,Cardinals,33.27,-112.05,80,{'value': 'Sunny'},6
+2014-09-21,4:25PM,1600,15,3,Miami,Dolphins,Chiefs,25.46,-80.12,64,{'value': 'Sunny'},20
+2014-09-21,4:25PM,1600,15,3,Seattle,Seahawks,Seahawks,47.36,-122.2,80,{'value': 'Sunny'},6
+2014-09-21,8:31PM,2000,19,3,Carolina,Panthers,Steelers,35.14,-80.5,52,{'value': 'Light rain shower'},80
+2014-09-22,8:30PM,2000,19,3,New York,Jets,Bears,40.43,-74.01,67,{'value': 'Clear'},16
+2014-09-25,8:26PM,2000,19,4,Washington,Redskins,Giants,38.54,-77.01,61,{'value': 'Light drizzle'},74
+2014-09-28,1:02PM,1300,12,4,Chicago,Bears,Packers,41.53,-87.38,80,{'value': 'Sunny'},17
+2014-09-28,1:02PM,1300,12,4,New York,Jets,Lions,40.43,-74.01,81,{'value': 'Sunny'},24
+2014-09-28,1:02PM,1300,12,4,Baltimore,Ravens,Ravens,39.17,-76.37,91,{'value': 'Sunny'},19
+2014-09-28,1:03PM,1300,12,4,Indianapolis,Colts,Colts,39.46,-86.09,91,{'value': 'Sunny'},19
+2014-09-28,1:03PM,1300,12,4,Pittsburgh,Steelers,Buccaneers,40.26,-80.0,81,{'value': 'Sunny'},24
+2014-09-28,1:06PM,1300,12,4,Oakland,Raiders,Dolphins,37.47,-122.13,64,{'value': 'Partly cloudy'},35
+2014-09-28,4:05PM,1600,15,4,San Diego,Chargers,Chargers,32.43,-118.09,82,{'value': 'Sunny'},20
+2014-09-28,4:25PM,1600,15,4,San Francisco,49ers,49ers,37.48,-122.24,64,{'value': 'Partly cloudy'},43
+2014-09-29,8:31PM,2000,19,4,Kansas City,Chiefs,Chiefs,39.06,-94.37,79,{'value': 'Clear'},14
+2014-10-02,8:26PM,2000,19,5,Green Bay,Packers,Packers,44.3,-88.01,58,{'value': 'Moderate or heavy rain shower'},9
+2014-10-05,1:02PM,1300,12,5,Tennessee,Titans,Browns,36.09,-86.48,,,
+2014-10-05,1:02PM,1300,12,5,Jacksonville,Jaguars,Steelers,30.2,-81.4,77,{'value': 'Sunny'},7
+2014-10-05,1:02PM,1300,12,5,Philadelphia,Eagles,Eagles,39.57,-75.07,84,{'value': 'Sunny'},0
+2014-10-05,1:03PM,1300,12,5,New York,Giants,Giants,40.43,-74.01,77,{'value': 'Sunny'},7
+2014-10-05,1:03PM,1300,12,5,Carolina,Panthers,Panthers,35.14,-80.5,52,{'value': 'Partly cloudy'},50
+2014-10-05,1:03PM,1300,12,5,Indianapolis,Colts,Colts,39.46,-86.09,84,{'value': 'Sunny'},0
+2014-10-05,4:05PM,1600,15,5,Denver,Broncos,Broncos,39.43,-105.01,80,{'value': 'Sunny'},0
+2014-10-05,4:25PM,1600,15,5,San Francisco,49ers,49ers,37.48,-122.24,56,{'value': 'Light rain shower'},100
+2014-10-05,4:25PM,1600,15,5,San Diego,Chargers,Chargers,32.43,-118.09,75,{'value': 'Sunny'},7
+2014-10-05,8:43PM,2000,19,5,New England,Patriots,Patriots,42.21,-71.04,70,{'value': 'Clear'},0
+2014-10-06,8:30PM,2000,19,5,Washington,Redskins,Seahawks,38.54,-77.01,61,{'value': 'Partly cloudy'},54
+2014-10-12,1:02PM,1300,12,6,New York,Jets,Broncos,40.43,-74.01,62,{'value': 'Sunny'},21
+2014-10-12,1:02PM,1300,12,6,Cleveland,Browns,Browns,41.3,-81.41,83,{'value': 'Sunny'},7
+2014-10-12,1:02PM,1300,12,6,Buffalo,Bills,Patriots,42.54,-78.53,93,{'value': 'Sunny'},2
+2014-10-12,1:02PM,1300,12,6,Tennessee,Titans,Titans,36.09,-86.48,,,
+2014-10-12,1:02PM,1300,12,6,Miami,Dolphins,Packers,25.46,-80.12,58,{'value': 'Cloudy'},72
+2014-10-12,1:02PM,1300,12,6,Tampa Bay,Buccaneers,Ravens,27.57,-82.27,66,{'value': 'Partly cloudy'},32
+2014-10-12,1:03PM,1300,12,6,Cincinnati,Bengals,Bengals,39.06,-84.31,93,{'value': 'Sunny'},2
+2014-10-12,4:05PM,1600,15,6,Oakland,Raiders,Chargers,37.47,-122.13,55,{'value': 'Sunny'},5
+2014-10-12,4:25PM,1600,15,6,Arizona,Cardinals,Cardinals,33.27,-112.05,66,{'value': 'Cloudy'},63
+2014-10-12,4:26PM,1600,15,6,Seattle,Seahawks,Cowboys,47.36,-122.2,66,{'value': 'Cloudy'},63
+2014-10-12,8:41PM,2000,19,6,Philadelphia,Eagles,Eagles,39.57,-75.07,75,{'value': 'Clear'},4
+2014-10-13,8:30PM,2000,19,6,St. Louis,Rams,49ers,38.38,-90.11,66,{'value': 'Partly cloudy'},50
+2014-10-16,8:25PM,2000,19,7,New England,Patriots,Patriots,42.21,-71.04,65,{'value': 'Clear'},0
+2014-10-19,1:00PM,1300,12,7,St. Louis,Rams,Rams,38.38,-90.11,55,{'value': 'Sunny'},3
+2014-10-19,1:00PM,1300,12,7,Chicago,Bears,Dolphins,41.53,-87.38,78,{'value': 'Sunny'},2
+2014-10-19,1:02PM,1300,12,7,Indianapolis,Colts,Colts,39.46,-86.09,86,{'value': 'Sunny'},0
+2014-10-19,1:02PM,1300,12,7,Jacksonville,Jaguars,Jaguars,30.2,-81.4,67,{'value': 'Sunny'},21
+2014-10-19,1:02PM,1300,12,7,Buffalo,Bills,Bills,42.54,-78.53,86,{'value': 'Sunny'},0
+2014-10-19,1:02PM,1300,12,7,Washington,Redskins,Redskins,38.54,-77.01,55,{'value': 'Sunny'},3
+2014-10-19,1:02PM,1300,12,7,Baltimore,Ravens,Ravens,39.17,-76.37,86,{'value': 'Sunny'},0
+2014-10-19,1:02PM,1300,12,7,Green Bay,Packers,Packers,44.3,-88.01,67,{'value': 'Sunny'},21
+2014-10-19,4:05PM,1600,15,7,San Diego,Chargers,Chiefs,32.43,-118.09,71,{'value': 'Sunny'},19
+2014-10-19,4:25PM,1600,15,7,Oakland,Raiders,Cardinals,37.47,-122.13,59,{'value': 'Light rain shower'},82
+2014-10-19,8:30PM,2000,19,7,Denver,Broncos,Broncos,39.43,-105.01,72,{'value': 'Clear'},2
+2014-10-20,8:30PM,2000,19,7,Pittsburgh,Steelers,Steelers,40.26,-80.0,61,{'value': 'Clear'},0
+2014-10-23,8:26PM,2000,19,8,Denver,Broncos,Broncos,39.43,-105.01,67,{'value': 'Clear'},26
+2014-10-26,1:02PM,1300,12,8,Cincinnati,Bengals,Bengals,39.06,-84.31,81,{'value': 'Partly cloudy'},45
+2014-10-26,1:02PM,1300,12,8,New York,Jets,Bills,40.43,-74.01,79,{'value': 'Sunny'},2
+2014-10-26,1:02PM,1300,12,8,Jacksonville,Jaguars,Dolphins,30.2,-81.4,79,{'value': 'Sunny'},2
+2014-10-26,1:02PM,1300,12,8,New England,Patriots,Patriots,42.21,-71.04,81,{'value': 'Partly cloudy'},45
+2014-10-26,1:03PM,1300,12,8,Tampa Bay,Buccaneers,Vikings,27.57,-82.27,73,{'value': 'Patchy rain possible'},26
+2014-10-26,1:03PM,1300,12,8,Tennessee,Titans,Texans,36.09,-86.48,,,
+2014-10-26,1:04PM,1300,12,8,Kansas City,Chiefs,Chiefs,39.06,-94.37,81,{'value': 'Partly cloudy'},45
+2014-10-26,1:04PM,1300,12,8,Carolina,Panthers,Seahawks,35.14,-80.5,56,{'value': 'Sunny'},8
+2014-10-26,4:05PM,1600,15,8,Arizona,Cardinals,Cardinals,33.27,-112.05,83,{'value': 'Sunny'},0
+2014-10-26,4:25PM,1600,15,8,Cleveland,Browns,Browns,41.3,-81.41,65,{'value': 'Partly cloudy'},31
+2014-10-26,4:25PM,1600,15,8,Pittsburgh,Steelers,Steelers,40.26,-80.0,83,{'value': 'Sunny'},0
+2014-10-30,8:30PM,2000,19,9,Carolina,Panthers,Saints,35.14,-80.5,45,{'value': 'Light rain shower'},82
+2014-11-02,1:02PM,1300,12,9,Cleveland,Browns,Browns,41.3,-81.41,74,{'value': 'Partly cloudy'},45
+2014-11-02,1:02PM,1300,12,9,Cincinnati,Bengals,Bengals,39.06,-84.31,76,{'value': 'Light rain shower'},100
+2014-11-02,1:02PM,1300,12,9,Miami,Dolphins,Dolphins,25.46,-80.12,60,{'value': 'Overcast'},92
+2014-11-02,1:03PM,1300,12,9,Kansas City,Chiefs,Chiefs,39.06,-94.37,76,{'value': 'Light rain shower'},100
+2014-11-02,4:05PM,1600,15,9,San Francisco,49ers,Rams,37.48,-122.24,52,{'value': 'Sunny'},11
+2014-11-02,4:25PM,1600,15,9,New England,Patriots,Patriots,42.21,-71.04,74,{'value': 'Light rain shower'},81
+2014-11-02,4:26PM,1600,15,9,Seattle,Seahawks,Seahawks,47.36,-122.2,60,{'value': 'Sunny'},7
+2014-11-02,8:30PM,2000,19,9,Pittsburgh,Steelers,Steelers,40.26,-80.0,54,{'value': 'Clear'},5
+2014-11-03,8:31PM,2000,19,9,New York,Giants,Colts,40.43,-74.01,59,{'value': 'Moderate rain'},83
+2014-11-06,8:29PM,2000,19,10,Cincinnati,Bengals,Browns,39.06,-84.31,68,{'value': 'Patchy light drizzle'},53
+2014-11-09,1:02PM,1300,12,10,Buffalo,Bills,Chiefs,42.54,-78.53,76,{'value': 'Partly cloudy'},56
+2014-11-09,1:02PM,1300,12,10,New York,Jets,Jets,40.43,-74.01,60,{'value': 'Sunny'},4
+2014-11-09,1:03PM,1300,12,10,Baltimore,Ravens,Ravens,39.17,-76.37,76,{'value': 'Partly cloudy'},56
+2014-11-09,1:04PM,1300,12,10,Tampa Bay,Buccaneers,Falcons,27.57,-82.27,65,{'value': 'Cloudy'},85
+2014-11-09,1:06PM,1300,12,10,Jacksonville,Jaguars,Cowboys,30.2,-81.4,60,{'value': 'Sunny'},4
+2014-11-09,4:05PM,1600,15,10,Oakland,Raiders,Broncos,37.47,-122.13,51,{'value': 'Light rain shower'},61
+2014-11-09,4:25PM,1600,15,10,Arizona,Cardinals,Cardinals,33.27,-112.05,65,{'value': 'Sunny'},2
+2014-11-09,4:26PM,1600,15,10,Seattle,Seahawks,Seahawks,47.36,-122.2,65,{'value': 'Sunny'},2
+2014-11-09,8:30PM,2000,19,10,Green Bay,Packers,Packers,44.3,-88.01,53,{'value': 'Clear'},6
+2014-11-10,8:32PM,2000,19,10,Philadelphia,Eagles,Eagles,39.57,-75.07,67,{'value': 'Partly cloudy'},45
+2014-11-13,8:26PM,2000,19,11,Miami,Dolphins,Dolphins,25.46,-80.12,53,{'value': 'Overcast'},88
+2014-11-16,1:00PM,1300,12,11,St. Louis,Rams,Rams,38.38,-90.11,47,{'value': 'Partly cloudy'},45
+2014-11-16,1:02PM,1300,12,11,Chicago,Bears,Bears,41.53,-87.38,76,{'value': 'Sunny'},6
+2014-11-16,1:03PM,1300,12,11,New York,Giants,49ers,40.43,-74.01,25,{'value': 'Patchy heavy snow'},75
+2014-11-16,1:03PM,1300,12,11,Carolina,Panthers,Falcons,35.14,-80.5,34,{'value': 'Partly cloudy'},62
+2014-11-16,1:03PM,1300,12,11,Cleveland,Browns,Texans,41.3,-81.41,76,{'value': 'Sunny'},6
+2014-11-16,1:03PM,1300,12,11,Washington,Redskins,Buccaneers,38.54,-77.01,47,{'value': 'Partly cloudy'},45
+2014-11-16,1:04PM,1300,12,11,Kansas City,Chiefs,Chiefs,39.06,-94.37,79,{'value': 'Sunny'},7
+2014-11-16,4:05PM,1600,15,11,San Diego,Chargers,Chargers,32.43,-118.09,29,{'value': 'Partly cloudy'},28
+2014-11-16,4:25PM,1600,15,11,Green Bay,Packers,Packers,44.3,-88.01,29,{'value': 'Partly cloudy'},28
+2014-11-16,4:25PM,1600,15,11,Arizona,Cardinals,Cardinals,33.27,-112.05,29,{'value': 'Partly cloudy'},28
+2014-11-16,8:31PM,2000,19,11,Indianapolis,Colts,Patriots,39.46,-86.09,67,{'value': 'Clear'},17
+2014-11-17,8:30PM,2000,19,11,Tennessee,Titans,Steelers,36.09,-86.48,,,
+2014-11-20,8:26PM,2000,19,12,Oakland,Raiders,Raiders,37.47,-122.13,49,{'value': 'Cloudy'},77
+2014-11-23,1:02PM,1300,12,12,Indianapolis,Colts,Colts,39.46,-86.09,80,{'value': 'Sunny'},13
+2014-11-23,1:02PM,1300,12,12,Philadelphia,Eagles,Eagles,39.57,-75.07,80,{'value': 'Sunny'},13
+2014-11-23,1:02PM,1300,12,12,Chicago,Bears,Bears,41.53,-87.38,66,{'value': 'Partly cloudy'},45
+2014-11-23,1:02PM,1300,12,12,New England,Patriots,Patriots,42.21,-71.04,80,{'value': 'Sunny'},13
+2014-11-23,4:05PM,1600,15,12,San Diego,Chargers,Chargers,32.43,-118.09,44,{'value': 'Light drizzle'},100
+2014-11-23,4:06PM,1600,15,12,Seattle,Seahawks,Seahawks,47.36,-122.2,44,{'value': 'Light drizzle'},100
+2014-11-23,4:25PM,1600,15,12,San Francisco,49ers,49ers,37.48,-122.24,44,{'value': 'Sunny'},1
+2014-11-23,4:25PM,1600,15,12,Denver,Broncos,Broncos,39.43,-105.01,73,{'value': 'Sunny'},18
+2014-11-23,8:30PM,2000,19,12,New York,Giants,Cowboys,40.43,-74.01,42,{'value': 'Overcast'},90
+2014-11-24,7:05PM,1900,18,12,Buffalo,Bills,Bills,42.54,-78.53,67,{'value': 'Clear'},8
+2014-11-27,8:31PM,2000,19,13,San Francisco,49ers,Seahawks,37.48,-122.24,46,{'value': 'Partly cloudy'},47
+2014-11-30,1:00PM,1300,12,13,St. Louis,Rams,Rams,38.38,-90.11,59,{'value': 'Partly cloudy'},29
+2014-11-30,1:02PM,1300,12,13,Pittsburgh,Steelers,Saints,40.26,-80.0,32,{'value': 'Sunny'},7
+2014-11-30,1:02PM,1300,12,13,Indianapolis,Colts,Colts,39.46,-86.09,79,{'value': 'Cloudy'},63
+2014-11-30,1:02PM,1300,12,13,Buffalo,Bills,Bills,42.54,-78.53,79,{'value': 'Cloudy'},63
+2014-11-30,1:02PM,1300,12,13,Tampa Bay,Buccaneers,Bengals,27.57,-82.27,61,{'value': 'Partly cloudy'},56
+2014-11-30,1:02PM,1300,12,13,Baltimore,Ravens,Chargers,39.17,-76.37,79,{'value': 'Cloudy'},63
+2014-11-30,1:03PM,1300,12,13,Jacksonville,Jaguars,Jaguars,30.2,-81.4,32,{'value': 'Sunny'},7
+2014-11-30,4:25PM,1600,15,13,Green Bay,Packers,Packers,44.3,-88.01,33,{'value': 'Sunny'},11
+2014-11-30,8:32PM,2000,19,13,Kansas City,Chiefs,Broncos,39.06,-94.37,72,{'value': 'Cloudy'},76
+2014-12-01,8:30PM,2000,19,13,New York,Jets,Dolphins,40.43,-74.01,23,{'value': 'Clear'},2
+2014-12-04,8:26PM,2000,19,14,Chicago,Bears,Cowboys,41.53,-87.38,67,{'value': 'Clear'},4
+2014-12-07,1:02PM,1300,12,14,Cincinnati,Bengals,Steelers,39.06,-84.31,68,{'value': 'Partly cloudy'},43
+2014-12-07,1:02PM,1300,12,14,Miami,Dolphins,Ravens,25.46,-80.12,48,{'value': 'Cloudy'},68
+2014-12-07,1:03PM,1300,12,14,Cleveland,Browns,Colts,41.3,-81.41,83,{'value': 'Sunny'},11
+2014-12-07,1:03PM,1300,12,14,Washington,Redskins,Rams,38.54,-77.01,44,{'value': 'Sunny'},0
+2014-12-07,1:03PM,1300,12,14,Tennessee,Titans,Giants,36.09,-86.48,,,
+2014-12-07,1:03PM,1300,12,14,Jacksonville,Jaguars,Texans,30.2,-81.4,44,{'value': 'Overcast'},100
+2014-12-07,4:05PM,1600,15,14,Denver,Broncos,Broncos,39.43,-105.01,63,{'value': 'Partly cloudy'},31
+2014-12-07,4:05PM,1600,15,14,Arizona,Cardinals,Cardinals,33.27,-112.05,47,{'value': 'Patchy rain possible'},33
+2014-12-07,4:25PM,1600,15,14,Oakland,Raiders,Raiders,37.47,-122.13,43,{'value': 'Sunny'},5
+2014-12-07,4:25PM,1600,15,14,Philadelphia,Eagles,Seahawks,39.57,-75.07,63,{'value': 'Partly cloudy'},31
+2014-12-07,8:30PM,2000,19,14,San Diego,Chargers,Patriots,32.43,-118.09,41,{'value': 'Clear'},9
+2014-12-08,8:30PM,2000,19,14,Green Bay,Packers,Packers,44.3,-88.01,43,{'value': 'Cloudy'},52
+2014-12-11,8:25PM,2000,19,15,St. Louis,Rams,Cardinals,38.38,-90.11,36,{'value': 'Overcast'},81
+2014-12-14,1:02PM,1300,12,15,Buffalo,Bills,Bills,42.54,-78.53,62,{'value': 'Sunny'},6
+2014-12-14,1:02PM,1300,12,15,Baltimore,Ravens,Ravens,39.17,-76.37,62,{'value': 'Sunny'},6
+2014-12-14,1:02PM,1300,12,15,Cleveland,Browns,Bengals,41.3,-81.41,76,{'value': 'Sunny'},18
+2014-12-14,1:02PM,1300,12,15,New England,Patriots,Patriots,42.21,-71.04,62,{'value': 'Sunny'},6
+2014-12-14,1:02PM,1300,12,15,Indianapolis,Colts,Colts,39.46,-86.09,62,{'value': 'Sunny'},6
+2014-12-14,1:02PM,1300,12,15,New York,Giants,Giants,40.43,-74.01,59,{'value': 'Overcast'},100
+2014-12-14,1:03PM,1300,12,15,Kansas City,Chiefs,Chiefs,39.06,-94.37,62,{'value': 'Sunny'},6
+2014-12-14,1:03PM,1300,12,15,Carolina,Panthers,Panthers,35.14,-80.5,49,{'value': 'Overcast'},98
+2014-12-14,4:05PM,1600,15,15,San Diego,Chargers,Broncos,32.43,-118.09,56,{'value': 'Moderate rain'},100
+2014-12-14,4:05PM,1600,15,15,Tennessee,Titans,Jets,36.09,-86.48,,,
+2014-12-14,4:26PM,1600,15,15,Seattle,Seahawks,Seahawks,47.36,-122.2,56,{'value': 'Moderate rain'},100
+2014-12-14,8:35PM,2000,19,15,Philadelphia,Eagles,Cowboys,39.57,-75.07,53,{'value': 'Clear'},5
+2014-12-15,8:30PM,2000,19,15,Chicago,Bears,Saints,41.53,-87.38,65,{'value': 'Partly cloudy'},44
+2014-12-18,8:26PM,2000,19,16,Jacksonville,Jaguars,Jaguars,30.2,-81.4,31,{'value': 'Cloudy'},76
+2014-12-20,4:30PM,1600,15,16,Washington,Redskins,Redskins,38.54,-77.01,35,{'value': 'Sunny'},4
+2014-12-20,8:26PM,2000,19,16,San Francisco,49ers,Chargers,37.48,-122.24,44,{'value': 'Clear'},22
+2014-12-21,1:02PM,1300,12,16,New York,Jets,Patriots,40.43,-74.01,43,{'value': 'Overcast'},100
+2014-12-21,1:02PM,1300,12,16,Pittsburgh,Steelers,Steelers,40.26,-80.0,43,{'value': 'Overcast'},100
+2014-12-21,1:03PM,1300,12,16,Chicago,Bears,Lions,41.53,-87.38,84,{'value': 'Sunny'},4
+2014-12-21,1:03PM,1300,12,16,Miami,Dolphins,Dolphins,25.46,-80.12,48,{'value': 'Partly cloudy'},27
+2014-12-21,1:03PM,1300,12,16,Tampa Bay,Buccaneers,Packers,27.57,-82.27,51,{'value': 'Partly cloudy'},26
+2014-12-21,1:04PM,1300,12,16,Carolina,Panthers,Panthers,35.14,-80.5,33,{'value': 'Partly cloudy'},51
+2014-12-21,4:05PM,1600,15,16,St. Louis,Rams,Giants,38.38,-90.11,36,{'value': 'Sunny'},5
+2014-12-21,4:25PM,1600,15,16,Oakland,Raiders,Raiders,37.47,-122.13,53,{'value': 'Partly cloudy'},48
+2014-12-21,8:30PM,2000,19,16,Arizona,Cardinals,Seahawks,33.27,-112.05,42,{'value': 'Overcast'},100
+2014-12-22,8:30PM,2000,19,16,Cincinnati,Bengals,Bengals,39.06,-84.31,47,{'value': 'Clear'},0
+2014-12-28,1:02PM,1300,12,17,Miami,Dolphins,Jets,25.46,-80.12,40,{'value': 'Sunny'},15
+2014-12-28,1:02PM,1300,12,17,Tennessee,Titans,Colts,36.09,-86.48,,,
+2014-12-28,1:02PM,1300,12,17,New York,Giants,Eagles,40.43,-74.01,37,{'value': 'Sunny'},0
+2014-12-28,1:02PM,1300,12,17,Baltimore,Ravens,Ravens,39.17,-76.37,64,{'value': 'Cloudy'},72
+2014-12-28,1:02PM,1300,12,17,New England,Patriots,Bills,42.21,-71.04,64,{'value': 'Cloudy'},72
+2014-12-28,1:03PM,1300,12,17,Tampa Bay,Buccaneers,Saints,27.57,-82.27,45,{'value': 'Sunny'},21
+2014-12-28,1:03PM,1300,12,17,Kansas City,Chiefs,Chiefs,39.06,-94.37,64,{'value': 'Cloudy'},72
+2014-12-28,1:05PM,1300,12,17,Washington,Redskins,Cowboys,38.54,-77.01,58,{'value': 'Overcast'},100
+2014-12-28,4:25PM,1600,15,17,San Francisco,49ers,49ers,37.48,-122.24,39,{'value': 'Sunny'},22
+2014-12-28,4:25PM,1600,15,17,Green Bay,Packers,Packers,44.3,-88.01,40,{'value': 'Sunny'},11
+2014-12-28,4:25PM,1600,15,17,Denver,Broncos,Broncos,39.43,-105.01,60,{'value': 'Cloudy'},78
+2014-12-28,4:27PM,1600,15,17,Seattle,Seahawks,Seahawks,47.36,-122.2,40,{'value': 'Sunny'},11
+2014-12-28,8:30PM,2000,19,17,Pittsburgh,Steelers,Steelers,40.26,-80.0,29,{'value': 'Clear'},9
+2014-01-03,4:20PM,1600,15,WildCard,Carolina,Panthers,Panthers,35.14,-80.5,11,{'value': 'Sunny'},13
+2014-01-03,8:15PM,2000,19,WildCard,Pittsburgh,Steelers,Ravens,40.26,-80.0,35,{'value': 'Clear'},8
+2014-01-04,1:05PM,1300,12,WildCard,Indianapolis,Colts,Colts,39.46,-86.09,71,{'value': 'Sunny'},22
+2014-01-10,4:35PM,1600,15,Division,New England,Patriots,Patriots,42.21,-71.04,57,{'value': 'Sunny'},16
+2014-01-10,8:21PM,2000,19,Division,Seattle,Seahawks,Seahawks,47.36,-122.2,36,{'value': 'Clear'},21
+2014-01-11,1:05PM,1300,12,Division,Green Bay,Packers,Packers,44.3,-88.01,48,{'value': 'Sunny'},3
+2014-01-11,4:40PM,1600,15,Division,Denver,Broncos,Colts,39.43,-105.01,67,{'value': 'Sunny'},5
+2014-01-18,3:06PM,1500,14,ConfChamp,Seattle,Seahawks,Seahawks,47.36,-122.2,52,{'value': 'Sunny'},12
+2014-01-18,6:50PM,1800,17,ConfChamp,New England,Patriots,Patriots,42.21,-71.04,54,{'value': 'Sunny'},0
+2014-02-01,6:30PM,1800,17,SuperBowl,New England,Patriots,Patriots,42.21,-71.04,71,{'value': 'Sunny'},0
+2015-09-10,8:40PM,2000,19,1,New England,Patriots,Patriots,42.21,-71.04,77,{'value': 'Partly cloudy'},58
+2015-09-13,1:00PM,1300,12,1,St. Louis,Rams,Rams,38.38,-90.11,71,{'value': 'Partly cloudy'},39
+2015-09-13,1:00PM,1300,12,1,Chicago,Bears,Packers,41.53,-87.38,78,{'value': 'Sunny'},7
+2015-09-13,1:02PM,1300,12,1,Washington,Redskins,Dolphins,38.54,-77.01,71,{'value': 'Partly cloudy'},36
+2015-09-13,1:03PM,1300,12,1,Jacksonville,Jaguars,Panthers,30.2,-81.4,81,{'value': 'Patchy rain possible'},13
+2015-09-13,1:03PM,1300,12,1,Buffalo,Bills,Bills,42.54,-78.53,83,{'value': 'Sunny'},22
+2015-09-13,1:04PM,1300,12,1,New York,Jets,Jets,40.43,-74.01,81,{'value': 'Patchy rain possible'},13
+2015-09-13,4:05PM,1600,15,1,San Diego,Chargers,Chargers,32.43,-118.09,88,{'value': 'Sunny'},5
+2015-09-13,4:05PM,1600,15,1,Arizona,Cardinals,Cardinals,33.27,-112.05,88,{'value': 'Sunny'},5
+2015-09-13,4:25PM,1600,15,1,Denver,Broncos,Broncos,39.43,-105.01,81,{'value': 'Sunny'},13
+2015-09-13,4:25PM,1600,15,1,Tampa Bay,Buccaneers,Titans,27.57,-82.27,80,{'value': 'Partly cloudy'},45
+2015-09-13,4:25PM,1600,15,1,Oakland,Raiders,Bengals,37.47,-122.13,59,{'value': 'Patchy light rain'},64
+2015-09-14,10:20PM,2200,21,1,San Francisco,49ers,49ers,37.48,-122.24,54,{'value': 'Light drizzle'},100
+2015-09-17,8:29PM,2000,19,2,Kansas City,Chiefs,Broncos,39.06,-94.37,78,{'value': 'Partly cloudy'},42
+2015-09-20,1:00PM,1300,12,2,Chicago,Bears,Cardinals,41.53,-87.38,77,{'value': 'Sunny'},7
+2015-09-20,1:02PM,1300,12,2,Cleveland,Browns,Browns,41.3,-81.41,77,{'value': 'Sunny'},7
+2015-09-20,1:02PM,1300,12,2,New York,Giants,Falcons,40.43,-74.01,78,{'value': 'Partly cloudy'},27
+2015-09-20,1:02PM,1300,12,2,Carolina,Panthers,Panthers,35.14,-80.5,67,{'value': 'Overcast'},100
+2015-09-20,1:02PM,1300,12,2,Pittsburgh,Steelers,Steelers,40.26,-80.0,78,{'value': 'Partly cloudy'},27
+2015-09-20,1:02PM,1300,12,2,Buffalo,Bills,Patriots,42.54,-78.53,85,{'value': 'Partly cloudy'},43
+2015-09-20,1:03PM,1300,12,2,Cincinnati,Bengals,Bengals,39.06,-84.31,85,{'value': 'Partly cloudy'},43
+2015-09-20,1:03PM,1300,12,2,Washington,Redskins,Redskins,38.54,-77.01,76,{'value': 'Sunny'},21
+2015-09-20,4:05PM,1600,15,2,Jacksonville,Jaguars,Jaguars,30.2,-81.4,79,{'value': 'Patchy rain possible'},49
+2015-09-20,4:05PM,1600,15,2,Oakland,Raiders,Raiders,37.47,-122.13,58,{'value': 'Moderate rain at times'},61
+2015-09-20,4:25PM,1600,15,2,Philadelphia,Eagles,Cowboys,39.57,-75.07,82,{'value': 'Heavy rain at times'},79
+2015-09-20,8:25PM,2000,19,2,Green Bay,Packers,Packers,44.3,-88.01,73,{'value': 'Light rain shower'},53
+2015-09-21,8:30PM,2000,19,2,Indianapolis,Colts,Jets,39.46,-86.09,75,{'value': 'Light rain shower'},93
+2015-09-24,8:26PM,2000,19,3,New York,Giants,Giants,40.43,-74.01,78,{'value': 'Clear'},12
+2015-09-27,1:00PM,1300,12,3,St. Louis,Rams,Steelers,38.38,-90.11,72,{'value': 'Cloudy'},84
+2015-09-27,1:02PM,1300,12,3,Cleveland,Browns,Raiders,41.3,-81.41,82,{'value': 'Sunny'},3
+2015-09-27,1:02PM,1300,12,3,Baltimore,Ravens,Bengals,39.17,-76.37,84,{'value': 'Patchy rain possible'},41
+2015-09-27,1:03PM,1300,12,3,Tennessee,Titans,Colts,36.09,-86.48,,,
+2015-09-27,1:03PM,1300,12,3,New York,Jets,Eagles,40.43,-74.01,81,{'value': 'Sunny'},6
+2015-09-27,1:03PM,1300,12,3,Carolina,Panthers,Panthers,35.14,-80.5,75,{'value': 'Overcast'},91
+2015-09-27,1:06PM,1300,12,3,New England,Patriots,Patriots,42.21,-71.04,84,{'value': 'Patchy rain possible'},41
+2015-09-27,4:05PM,1600,15,3,Arizona,Cardinals,Cardinals,33.27,-112.05,83,{'value': 'Sunny'},7
+2015-09-27,4:25PM,1600,15,3,Miami,Dolphins,Bills,25.46,-80.12,63,{'value': 'Sunny'},0
+2015-09-27,4:26PM,1600,15,3,Seattle,Seahawks,Seahawks,47.36,-122.2,83,{'value': 'Sunny'},7
+2015-09-28,8:30PM,2000,19,3,Green Bay,Packers,Packers,44.3,-88.01,77,{'value': 'Clear'},8
+2015-10-01,8:26PM,2000,19,4,Pittsburgh,Steelers,Ravens,40.26,-80.0,65,{'value': 'Clear'},23
+2015-10-04,9:37AM,2100,20,4,Miami,Dolphins,Jets,25.46,-80.12,55,{'value': 'Clear'},9
+2015-10-04,1:02PM,1300,12,4,Indianapolis,Colts,Colts,39.46,-86.09,85,{'value': 'Moderate or heavy rain shower'},22
+2015-10-04,1:02PM,1300,12,4,Buffalo,Bills,Giants,42.54,-78.53,85,{'value': 'Moderate or heavy rain shower'},22
+2015-10-04,1:02PM,1300,12,4,Chicago,Bears,Bears,41.53,-87.38,87,{'value': 'Sunny'},0
+2015-10-04,1:03PM,1300,12,4,Cincinnati,Bengals,Bengals,39.06,-84.31,85,{'value': 'Moderate or heavy rain shower'},22
+2015-10-04,1:03PM,1300,12,4,Washington,Redskins,Redskins,38.54,-77.01,61,{'value': 'Overcast'},95
+2015-10-04,1:03PM,1300,12,4,Tampa Bay,Buccaneers,Panthers,27.57,-82.27,78,{'value': 'Sunny'},3
+2015-10-04,4:05PM,1600,15,4,San Diego,Chargers,Chargers,32.43,-118.09,73,{'value': 'Sunny'},16
+2015-10-04,4:25PM,1600,15,4,Arizona,Cardinals,Rams,33.27,-112.05,73,{'value': 'Sunny'},16
+2015-10-04,4:25PM,1600,15,4,Denver,Broncos,Broncos,39.43,-105.01,82,{'value': 'Moderate or heavy rain shower'},27
+2015-10-04,4:25PM,1600,15,4,San Francisco,49ers,Packers,37.48,-122.24,57,{'value': 'Partly cloudy'},61
+2015-10-05,8:31PM,2000,19,4,Seattle,Seahawks,Seahawks,47.36,-122.2,58,{'value': 'Patchy light drizzle'},53
+2015-10-11,1:02PM,1300,12,5,Baltimore,Ravens,Browns,39.17,-76.37,77,{'value': 'Partly cloudy'},50
+2015-10-11,1:02PM,1300,12,5,Kansas City,Chiefs,Bears,39.06,-94.37,77,{'value': 'Partly cloudy'},50
+2015-10-11,1:02PM,1300,12,5,Green Bay,Packers,Packers,44.3,-88.01,84,{'value': 'Sunny'},0
+2015-10-11,1:02PM,1300,12,5,Tampa Bay,Buccaneers,Buccaneers,27.57,-82.27,68,{'value': 'Patchy rain possible'},25
+2015-10-11,1:03PM,1300,12,5,Cincinnati,Bengals,Bengals,39.06,-84.31,77,{'value': 'Partly cloudy'},50
+2015-10-11,1:03PM,1300,12,5,Tennessee,Titans,Bills,36.09,-86.48,,,
+2015-10-11,1:04PM,1300,12,5,Philadelphia,Eagles,Eagles,39.57,-75.07,77,{'value': 'Partly cloudy'},50
+2015-10-11,4:25PM,1600,15,5,Oakland,Raiders,Broncos,37.47,-122.13,58,{'value': 'Light rain shower'},67
+2015-10-11,8:31PM,2000,19,5,New York,Giants,Giants,40.43,-74.01,77,{'value': 'Clear'},0
+2015-10-12,8:30PM,2000,19,5,San Diego,Chargers,Steelers,32.43,-118.09,68,{'value': 'Clear'},0
+2015-10-18,1:02PM,1300,12,6,New York,Jets,Jets,40.43,-74.01,71,{'value': 'Sunny'},4
+2015-10-18,1:02PM,1300,12,6,Buffalo,Bills,Bengals,42.54,-78.53,80,{'value': 'Sunny'},0
+2015-10-18,1:02PM,1300,12,6,Cleveland,Browns,Broncos,41.3,-81.41,81,{'value': 'Sunny'},6
+2015-10-18,1:02PM,1300,12,6,Jacksonville,Jaguars,Texans,30.2,-81.4,71,{'value': 'Sunny'},4
+2015-10-18,1:03PM,1300,12,6,Tennessee,Titans,Dolphins,36.09,-86.48,,,
+2015-10-18,1:04PM,1300,12,6,Pittsburgh,Steelers,Steelers,40.26,-80.0,71,{'value': 'Sunny'},4
+2015-10-18,4:06PM,1600,15,6,Seattle,Seahawks,Panthers,47.36,-122.2,76,{'value': 'Sunny'},5
+2015-10-18,4:25PM,1600,15,6,Green Bay,Packers,Packers,44.3,-88.01,76,{'value': 'Sunny'},5
+2015-10-18,4:25PM,1600,15,6,San Francisco,49ers,49ers,37.48,-122.24,55,{'value': 'Overcast'},92
+2015-10-18,8:30PM,2000,19,6,Indianapolis,Colts,Patriots,39.46,-86.09,72,{'value': 'Clear'},17
+2015-10-19,8:30PM,2000,19,6,Philadelphia,Eagles,Eagles,39.57,-75.07,74,{'value': 'Clear'},30
+2015-10-22,8:26PM,2000,19,7,San Francisco,49ers,Seahawks,37.48,-122.24,51,{'value': 'Clear'},22
+2015-10-25,8:35AM,2000,19,7,Jacksonville,Jaguars,Jaguars,30.2,-81.4,55,{'value': 'Clear'},0
+2015-10-25,1:00PM,1300,12,7,St. Louis,Rams,Rams,38.38,-90.11,70,{'value': 'Light drizzle'},89
+2015-10-25,1:02PM,1300,12,7,New England,Patriots,Patriots,42.21,-71.04,82,{'value': 'Sunny'},8
+2015-10-25,1:02PM,1300,12,7,Miami,Dolphins,Dolphins,25.46,-80.12,53,{'value': 'Overcast'},93
+2015-10-25,1:02PM,1300,12,7,Tennessee,Titans,Falcons,36.09,-86.48,,,
+2015-10-25,1:03PM,1300,12,7,Indianapolis,Colts,Saints,39.46,-86.09,82,{'value': 'Sunny'},8
+2015-10-25,1:03PM,1300,12,7,Kansas City,Chiefs,Chiefs,39.06,-94.37,82,{'value': 'Sunny'},8
+2015-10-25,1:04PM,1300,12,7,Washington,Redskins,Redskins,38.54,-77.01,69,{'value': 'Cloudy'},85
+2015-10-25,4:05PM,1600,15,7,San Diego,Chargers,Raiders,32.43,-118.09,67,{'value': 'Sunny'},0
+2015-10-25,4:25PM,1600,15,7,New York,Giants,Giants,40.43,-74.01,67,{'value': 'Sunny'},0
+2015-10-25,8:31PM,2000,19,7,Carolina,Panthers,Panthers,35.14,-80.5,48,{'value': 'Clear'},12
+2015-10-26,8:30PM,2000,19,7,Arizona,Cardinals,Cardinals,33.27,-112.05,54,{'value': 'Clear'},4
+2015-10-29,8:26PM,2000,19,8,New England,Patriots,Patriots,42.21,-71.04,74,{'value': 'Clear'},17
+2015-11-01,9:36AM,2100,20,8,Kansas City,Chiefs,Chiefs,39.06,-94.37,70,{'value': 'Cloudy'},69
+2015-11-01,1:00PM,1300,12,8,St. Louis,Rams,Rams,38.38,-90.11,63,{'value': 'Patchy rain possible'},28
+2015-11-01,1:00PM,1300,12,8,Chicago,Bears,Vikings,41.53,-87.38,93,{'value': 'Partly cloudy'},46
+2015-11-01,1:02PM,1300,12,8,Pittsburgh,Steelers,Bengals,40.26,-80.0,71,{'value': 'Sunny'},0
+2015-11-01,1:02PM,1300,12,8,Baltimore,Ravens,Ravens,39.17,-76.37,77,{'value': 'Cloudy'},75
+2015-11-01,1:02PM,1300,12,8,Cleveland,Browns,Cardinals,41.3,-81.41,93,{'value': 'Partly cloudy'},46
+2015-11-01,4:05PM,1600,15,8,Oakland,Raiders,Raiders,37.47,-122.13,60,{'value': 'Sunny'},8
+2015-11-01,8:30PM,2000,19,8,Denver,Broncos,Broncos,39.43,-105.01,71,{'value': 'Cloudy'},68
+2015-11-02,8:30PM,2000,19,8,Carolina,Panthers,Panthers,35.14,-80.5,55,{'value': 'Clear'},7
+2015-11-05,8:25PM,2000,19,9,Cincinnati,Bengals,Bengals,39.06,-84.31,73,{'value': 'Clear'},18
+2015-11-08,1:02PM,1300,12,9,Buffalo,Bills,Bills,42.54,-78.53,85,{'value': 'Sunny'},5
+2015-11-08,1:02PM,1300,12,9,New England,Patriots,Patriots,42.21,-71.04,85,{'value': 'Sunny'},5
+2015-11-08,1:02PM,1300,12,9,New York,Jets,Jets,40.43,-74.01,58,{'value': 'Sunny'},2
+2015-11-08,1:02PM,1300,12,9,Pittsburgh,Steelers,Steelers,40.26,-80.0,58,{'value': 'Sunny'},2
+2015-11-08,1:04PM,1300,12,9,Carolina,Panthers,Panthers,35.14,-80.5,48,{'value': 'Sunny'},0
+2015-11-08,4:05PM,1600,15,9,Tampa Bay,Buccaneers,Giants,27.57,-82.27,63,{'value': 'Overcast'},100
+2015-11-08,4:05PM,1600,15,9,San Francisco,49ers,49ers,37.48,-122.24,56,{'value': 'Patchy light rain'},66
+2015-11-08,4:25PM,1600,15,9,Indianapolis,Colts,Colts,39.46,-86.09,81,{'value': 'Sunny'},5
+2015-11-09,8:30PM,2000,19,9,San Diego,Chargers,Bears,32.43,-118.09,53,{'value': 'Clear'},21
+2015-11-12,8:26PM,2000,19,10,New York,Jets,Bills,40.43,-74.01,48,{'value': 'Clear'},2
+2015-11-15,1:00PM,1300,12,10,St. Louis,Rams,Bears,38.38,-90.11,61,{'value': 'Sunny'},0
+2015-11-15,1:03PM,1300,12,10,Tennessee,Titans,Panthers,36.09,-86.48,,,
+2015-11-15,1:04PM,1300,12,10,Green Bay,Packers,Lions,44.3,-88.01,61,{'value': 'Partly cloudy'},47
+2015-11-15,1:04PM,1300,12,10,Pittsburgh,Steelers,Steelers,40.26,-80.0,61,{'value': 'Partly cloudy'},47
+2015-11-15,1:05PM,1300,12,10,Baltimore,Ravens,Jaguars,39.17,-76.37,78,{'value': 'Sunny'},14
+2015-11-15,1:05PM,1300,12,10,Tampa Bay,Buccaneers,Buccaneers,27.57,-82.27,67,{'value': 'Sunny'},8
+2015-11-15,1:05PM,1300,12,10,Philadelphia,Eagles,Dolphins,39.57,-75.07,78,{'value': 'Sunny'},14
+2015-11-15,1:05PM,1300,12,10,Washington,Redskins,Redskins,38.54,-77.01,60,{'value': 'Sunny'},0
+2015-11-15,4:05PM,1600,15,10,Oakland,Raiders,Vikings,37.47,-122.13,60,{'value': 'Patchy light drizzle'},71
+2015-11-15,4:30PM,1600,15,10,Denver,Broncos,Chiefs,39.43,-105.01,74,{'value': 'Partly cloudy'},36
+2015-11-15,4:31PM,1600,15,10,New York,Giants,Patriots,40.43,-74.01,59,{'value': 'Cloudy'},69
+2015-11-15,8:35PM,2000,19,10,Seattle,Seahawks,Cardinals,47.36,-122.2,56,{'value': 'Overcast'},100
+2015-11-16,8:30PM,2000,19,10,Cincinnati,Bengals,Texans,39.06,-84.31,73,{'value': 'Clear'},42
+2015-11-19,8:26PM,2000,19,11,Jacksonville,Jaguars,Jaguars,30.2,-81.4,44,{'value': 'Clear'},3
+2015-11-22,1:02PM,1300,12,11,Philadelphia,Eagles,Buccaneers,39.57,-75.07,79,{'value': 'Partly cloudy'},46
+2015-11-22,1:02PM,1300,12,11,Baltimore,Ravens,Ravens,39.17,-76.37,79,{'value': 'Partly cloudy'},46
+2015-11-22,1:02PM,1300,12,11,Chicago,Bears,Broncos,41.53,-87.38,76,{'value': 'Sunny'},0
+2015-11-22,1:02PM,1300,12,11,Carolina,Panthers,Panthers,35.14,-80.5,26,{'value': 'Sunny'},2
+2015-11-22,1:03PM,1300,12,11,Miami,Dolphins,Cowboys,25.46,-80.12,42,{'value': 'Partly cloudy'},47
+2015-11-22,4:05PM,1600,15,11,San Diego,Chargers,Chiefs,32.43,-118.09,57,{'value': 'Sunny'},0
+2015-11-22,4:27PM,1600,15,11,Seattle,Seahawks,Seahawks,47.36,-122.2,57,{'value': 'Sunny'},0
+2015-11-22,8:30PM,2000,19,11,Arizona,Cardinals,Cardinals,33.27,-112.05,44,{'value': 'Clear'},0
+2015-11-23,8:30PM,2000,19,11,New England,Patriots,Patriots,42.21,-71.04,72,{'value': 'Clear'},10
+2015-11-26,8:30PM,2000,19,12,Green Bay,Packers,Bears,44.3,-88.01,33,{'value': 'Moderate rain'},100
+2015-11-29,1:02PM,1300,12,12,New York,Jets,Jets,40.43,-74.01,31,{'value': 'Moderate or heavy freezing rain'},100
+2015-11-29,1:02PM,1300,12,12,Tennessee,Titans,Raiders,36.09,-86.48,,,
+2015-11-29,1:02PM,1300,12,12,Indianapolis,Colts,Colts,39.46,-86.09,75,{'value': 'Partly cloudy'},45
+2015-11-29,1:02PM,1300,12,12,Cincinnati,Bengals,Bengals,39.06,-84.31,75,{'value': 'Partly cloudy'},45
+2015-11-29,1:03PM,1300,12,12,Washington,Redskins,Redskins,38.54,-77.01,48,{'value': 'Light rain'},100
+2015-11-29,1:03PM,1300,12,12,Kansas City,Chiefs,Chiefs,39.06,-94.37,75,{'value': 'Partly cloudy'},45
+2015-11-29,1:03PM,1300,12,12,Jacksonville,Jaguars,Chargers,30.2,-81.4,31,{'value': 'Moderate or heavy freezing rain'},100
+2015-11-29,4:05PM,1600,15,12,San Francisco,49ers,Cardinals,37.48,-122.24,48,{'value': 'Partly cloudy'},32
+2015-11-29,4:26PM,1600,15,12,Seattle,Seahawks,Seahawks,47.36,-122.2,32,{'value': 'Moderate or heavy freezing rain'},100
+2015-11-29,8:30PM,2000,19,12,Denver,Broncos,Broncos,39.43,-105.01,67,{'value': 'Partly cloudy'},48
+2015-11-30,8:30PM,2000,19,12,Cleveland,Browns,Ravens,41.3,-81.41,73,{'value': 'Clear'},3
+2015-12-06,1:00PM,1300,12,13,St. Louis,Rams,Cardinals,38.38,-90.11,56,{'value': 'Sunny'},1
+2015-12-06,1:02PM,1300,12,13,Tennessee,Titans,Titans,36.09,-86.48,,,
+2015-12-06,1:02PM,1300,12,13,Chicago,Bears,49ers,41.53,-87.38,92,{'value': 'Sunny'},2
+2015-12-06,1:02PM,1300,12,13,Buffalo,Bills,Bills,42.54,-78.53,67,{'value': 'Patchy light drizzle'},54
+2015-12-06,1:03PM,1300,12,13,Tampa Bay,Buccaneers,Buccaneers,27.57,-82.27,54,{'value': 'Sunny'},17
+2015-12-06,1:03PM,1300,12,13,Cleveland,Browns,Bengals,41.3,-81.41,92,{'value': 'Sunny'},2
+2015-12-06,1:03PM,1300,12,13,Miami,Dolphins,Dolphins,25.46,-80.12,57,{'value': 'Overcast'},97
+2015-12-06,1:03PM,1300,12,13,New York,Giants,Jets,40.43,-74.01,53,{'value': 'Sunny'},0
+2015-12-06,4:05PM,1600,15,13,San Diego,Chargers,Broncos,32.43,-118.09,56,{'value': 'Sunny'},0
+2015-12-06,4:05PM,1600,15,13,Oakland,Raiders,Chiefs,37.47,-122.13,46,{'value': 'Partly cloudy'},49
+2015-12-06,4:25PM,1600,15,13,New England,Patriots,Eagles,42.21,-71.04,64,{'value': 'Cloudy'},70
+2015-12-06,8:30PM,2000,19,13,Pittsburgh,Steelers,Steelers,40.26,-80.0,42,{'value': 'Clear'},4
+2015-12-07,8:31PM,2000,19,13,Washington,Redskins,Cowboys,38.54,-77.01,44,{'value': 'Clear'},9
+2015-12-10,8:25PM,2000,19,14,Arizona,Cardinals,Cardinals,33.27,-112.05,49,{'value': 'Partly cloudy'},23
+2015-12-13,1:01PM,1300,12,14,Philadelphia,Eagles,Eagles,39.57,-75.07,69,{'value': 'Partly cloudy'},46
+2015-12-13,1:02PM,1300,12,14,Tampa Bay,Buccaneers,Saints,27.57,-82.27,51,{'value': 'Light rain'},100
+2015-12-13,1:02PM,1300,12,14,New York,Jets,Jets,40.43,-74.01,45,{'value': 'Overcast'},100
+2015-12-13,1:02PM,1300,12,14,Baltimore,Ravens,Seahawks,39.17,-76.37,69,{'value': 'Partly cloudy'},46
+2015-12-13,1:02PM,1300,12,14,Chicago,Bears,Redskins,41.53,-87.38,87,{'value': 'Sunny'},0
+2015-12-13,1:02PM,1300,12,14,Jacksonville,Jaguars,Jaguars,30.2,-81.4,45,{'value': 'Overcast'},100
+2015-12-13,1:02PM,1300,12,14,Cincinnati,Bengals,Steelers,39.06,-84.31,69,{'value': 'Partly cloudy'},46
+2015-12-13,1:02PM,1300,12,14,St. Louis,Rams,Rams,38.38,-90.11,71,{'value': 'Sunny'},5
+2015-12-13,1:02PM,1300,12,14,Cleveland,Browns,Browns,41.3,-81.41,87,{'value': 'Sunny'},0
+2015-12-13,1:03PM,1300,12,14,Carolina,Panthers,Panthers,35.14,-80.5,63,{'value': 'Cloudy'},83
+2015-12-13,1:03PM,1300,12,14,Kansas City,Chiefs,Chiefs,39.06,-94.37,69,{'value': 'Partly cloudy'},46
+2015-12-13,4:05PM,1600,15,14,Denver,Broncos,Raiders,39.43,-105.01,67,{'value': 'Cloudy'},68
+2015-12-13,4:25PM,1600,15,14,Green Bay,Packers,Packers,44.3,-88.01,42,{'value': 'Light rain'},100
+2015-12-14,8:30PM,2000,19,14,Miami,Dolphins,Giants,25.46,-80.12,46,{'value': 'Partly cloudy'},60
+2015-12-17,8:25PM,2000,19,15,St. Louis,Rams,Rams,38.38,-90.11,49,{'value': 'Fog'},91
+2015-12-20,1:02PM,1300,12,15,New York,Giants,Panthers,40.43,-74.01,39,{'value': 'Partly cloudy'},36
+2015-12-20,1:02PM,1300,12,15,Indianapolis,Colts,Texans,39.46,-86.09,67,{'value': 'Sunny'},16
+2015-12-20,1:02PM,1300,12,15,New England,Patriots,Patriots,42.21,-71.04,67,{'value': 'Sunny'},16
+2015-12-20,1:02PM,1300,12,15,Jacksonville,Jaguars,Falcons,30.2,-81.4,39,{'value': 'Partly cloudy'},36
+2015-12-20,1:02PM,1300,12,15,Baltimore,Ravens,Chiefs,39.17,-76.37,67,{'value': 'Sunny'},16
+2015-12-20,1:03PM,1300,12,15,Washington,Redskins,Redskins,38.54,-77.01,42,{'value': 'Cloudy'},55
+2015-12-20,4:05PM,1600,15,15,Oakland,Raiders,Packers,37.47,-122.13,45,{'value': 'Patchy rain possible'},61
+2015-12-20,4:06PM,1600,15,15,Seattle,Seahawks,Seahawks,47.36,-122.2,42,{'value': 'Patchy rain possible'},76
+2015-12-20,4:25PM,1600,15,15,San Diego,Chargers,Chargers,32.43,-118.09,42,{'value': 'Patchy rain possible'},76
+2015-12-20,4:25PM,1600,15,15,San Francisco,49ers,Bengals,37.48,-122.24,45,{'value': 'Patchy rain possible'},61
+2015-12-20,4:25PM,1600,15,15,Pittsburgh,Steelers,Steelers,40.26,-80.0,42,{'value': 'Patchy rain possible'},76
+2015-12-20,8:31PM,2000,19,15,Philadelphia,Eagles,Cardinals,39.57,-75.07,58,{'value': 'Clear'},36
+2015-12-24,8:26PM,2000,19,16,Oakland,Raiders,Raiders,37.47,-122.13,41,{'value': 'Clear'},5
+2015-12-26,8:26PM,2000,19,16,Philadelphia,Eagles,Redskins,39.57,-75.07,59,{'value': 'Cloudy'},83
+2015-12-27,1:02PM,1300,12,16,Tennessee,Titans,Texans,36.09,-86.48,,,
+2015-12-27,1:02PM,1300,12,16,Baltimore,Ravens,Ravens,39.17,-76.37,63,{'value': 'Light drizzle'},83
+2015-12-27,1:02PM,1300,12,16,Buffalo,Bills,Bills,42.54,-78.53,63,{'value': 'Light drizzle'},83
+2015-12-27,1:02PM,1300,12,16,Miami,Dolphins,Colts,25.46,-80.12,57,{'value': 'Overcast'},100
+2015-12-27,1:02PM,1300,12,16,New York,Jets,Jets,40.43,-74.01,28,{'value': 'Blizzard'},100
+2015-12-27,1:03PM,1300,12,16,Kansas City,Chiefs,Chiefs,39.06,-94.37,63,{'value': 'Light drizzle'},83
+2015-12-27,1:03PM,1300,12,16,Tampa Bay,Buccaneers,Bears,27.57,-82.27,49,{'value': 'Sunny'},12
+2015-12-27,4:25PM,1600,15,16,Arizona,Cardinals,Cardinals,33.27,-112.05,28,{'value': 'Ice pellets'},81
+2015-12-27,4:26PM,1600,15,16,Seattle,Seahawks,Rams,47.36,-122.2,28,{'value': 'Ice pellets'},81
+2015-12-28,8:30PM,2000,19,16,Denver,Broncos,Broncos,39.43,-105.01,58,{'value': 'Clear'},19
+2015-01-03,1:02PM,1300,12,17,Chicago,Bears,Lions,41.53,-87.38,83,{'value': 'Patchy rain possible'},15
+2015-01-03,1:02PM,1300,12,17,Indianapolis,Colts,Colts,39.46,-86.09,67,{'value': 'Sunny'},0
+2015-01-03,1:02PM,1300,12,17,Cincinnati,Bengals,Bengals,39.06,-84.31,67,{'value': 'Sunny'},0
+2015-01-03,1:02PM,1300,12,17,Miami,Dolphins,Dolphins,25.46,-80.12,40,{'value': 'Moderate rain'},100
+2015-01-03,1:02PM,1300,12,17,Cleveland,Browns,Steelers,41.3,-81.41,83,{'value': 'Patchy rain possible'},15
+2015-01-03,1:02PM,1300,12,17,Buffalo,Bills,Bills,42.54,-78.53,67,{'value': 'Sunny'},0
+2015-01-03,1:03PM,1300,12,17,New York,Giants,Eagles,40.43,-74.01,35,{'value': 'Partly cloudy'},54
+2015-01-03,4:25PM,1600,15,17,Denver,Broncos,Broncos,39.43,-105.01,64,{'value': 'Sunny'},0
+2015-01-03,4:25PM,1600,15,17,San Francisco,49ers,49ers,37.48,-122.24,40,{'value': 'Partly cloudy'},27
+2015-01-03,4:25PM,1600,15,17,Carolina,Panthers,Panthers,35.14,-80.5,33,{'value': 'Moderate rain'},100
+2015-01-03,4:25PM,1600,15,17,Arizona,Cardinals,Seahawks,33.27,-112.05,35,{'value': 'Patchy heavy snow'},67
+2015-01-03,4:26PM,1600,15,17,Kansas City,Chiefs,Chiefs,39.06,-94.37,64,{'value': 'Sunny'},0
+2015-01-03,8:30PM,2000,19,17,Green Bay,Packers,Vikings,44.3,-88.01,32,{'value': 'Heavy snow'},95
+2015-01-09,8:15PM,2000,19,WildCard,Cincinnati,Bengals,Steelers,39.06,-84.31,50,{'value': 'Clear'},20
+2015-01-10,4:42PM,1600,15,WildCard,Washington,Redskins,Packers,38.54,-77.01,30,{'value': 'Sunny'},0
+2015-01-16,4:35PM,1600,15,Division,New England,Patriots,Patriots,42.21,-71.04,62,{'value': 'Sunny'},0
+2015-01-16,8:15PM,2000,19,Division,Arizona,Cardinals,Cardinals,33.27,-112.05,48,{'value': 'Partly cloudy'},33
+2015-01-17,1:06PM,1300,12,Division,Carolina,Panthers,Panthers,35.14,-80.5,34,{'value': 'Partly cloudy'},53
+2015-01-17,4:40PM,1600,15,Division,Denver,Broncos,Broncos,39.43,-105.01,56,{'value': 'Sunny'},3
+2015-01-24,3:05PM,1500,14,ConfChamp,Denver,Broncos,Broncos,39.43,-105.01,64,{'value': 'Partly cloudy'},40
+2015-01-24,6:42PM,1800,17,ConfChamp,Carolina,Panthers,Panthers,35.14,-80.5,33,{'value': 'Overcast'},100
+2015-02-07,6:39PM,1800,17,SuperBowl,Denver,Broncos,Broncos,39.43,-105.01,58,{'value': 'Partly cloudy'},57
