@@ -3,7 +3,7 @@ Full Date,Time,time_conv,time_index,Week,City,Home Team,Winner,Latitude,Longitud
 2008-09-07,1:02PM,1300,12,1,Philadelphia,Eagles,Eagles,39.57,-75.07,82,{'value': 'Partly cloudy'},38
 2008-09-07,1:02PM,1300,12,1,Miami,Dolphins,Jets,25.46,-80.12,59,{'value': 'Light rain shower'},97
 2008-09-07,1:02PM,1300,12,1,New England,Patriots,Patriots,42.21,-71.04,82,{'value': 'Partly cloudy'},38
-2008-09-07,1:02PM,1300,12,1,Pittsburgh,Steelers,Steelers,40.26,-80.0,72,{'value': 'Sunny'},14
+2008-09-07,1:02PM,1300,12,1,Pittsburgh,Steelers,Steelers,40.26,-80,72,{'value': 'Sunny'},14
 2008-09-07,1:02PM,1300,12,1,Buffalo,Bills,Bills,42.54,-78.53,82,{'value': 'Partly cloudy'},38
 2008-09-07,1:05PM,1300,12,1,Tennessee,Titans,Titans,36.09,-86.48,,,
 2008-09-07,1:06PM,1300,12,1,Baltimore,Ravens,Ravens,39.17,-76.37,82,{'value': 'Partly cloudy'},38
@@ -49,7 +49,7 @@ Full Date,Time,time_conv,time_index,Week,City,Home Team,Winner,Latitude,Longitud
 2008-09-28,4:05PM,1600,15,4,Oakland,Raiders,Chargers,37.47,-122.13,56,{'value': 'Sunny'},16
 2008-09-28,4:05PM,1600,15,4,St. Louis,Rams,Bills,38.38,-90.11,75,{'value': 'Moderate or heavy rain shower'},63
 2008-09-28,8:23PM,2000,19,4,Chicago,Bears,Bears,41.53,-87.38,58,{'value': 'Clear'},23
-2008-09-29,8:40PM,2000,19,4,Pittsburgh,Steelers,Steelers,40.26,-80.0,64,{'value': 'Clear'},11
+2008-09-29,8:40PM,2000,19,4,Pittsburgh,Steelers,Steelers,40.26,-80,64,{'value': 'Clear'},11
 2008-10-05,1:02PM,1300,12,5,Baltimore,Ravens,Titans,39.17,-76.37,83,{'value': 'Light rain shower'},46
 2008-10-05,1:02PM,1300,12,5,Green Bay,Packers,Falcons,44.3,-88.01,78,{'value': 'Sunny'},18
 2008-10-05,1:03PM,1300,12,5,New York,Giants,Giants,40.43,-74.01,78,{'value': 'Sunny'},18
