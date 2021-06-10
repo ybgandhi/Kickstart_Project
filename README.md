@@ -2,7 +2,7 @@
 
 Football and Weather 
 
-Background: Football is one of the most popular American sports. Some of the most memorable and epic matchups were played outside in the elements. This project aim is to look at all the games that were played outdoors in different weather conditions and elements from 1989 - 2019.
+Background: Football is one of the most popular American sports. Some of the most memorable and epic matchups were played outside in the elements. This project aim is to look at all the games that were played outdoors in different weather conditions and elements from 2008 - 2015.
 
 Data sets to be used:
 * Webscraping: to pull Geographic Locations of each NFL stadium (https://sites.google.com/site/32nflteamsabsoluteandrelative/)
@@ -12,3 +12,5 @@ Data sets to be used:
 * D3 library to show geographic points of the stadiums based on location
 * Google Library to display charts
 https://gist.github.com/dawnvoh/a1f513123f7b6a42577d for weather codes
+
+https://bootswatch.com/morph/
