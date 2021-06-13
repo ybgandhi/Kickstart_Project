@@ -1,10 +1,9 @@
 
 
 var link = "static/Table.json";
- //console.log(link);
+ console.log(link);
 
-var dataTable = JSON.parse(link);
-    console.log(dataTable.count);
+// var dataTable = JSON.parse(link);
 
 
 
