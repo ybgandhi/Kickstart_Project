@@ -17,7 +17,7 @@ var dataTable = JSON.parse(link);
         row.append("td").text(data.Kickoff_Time);
         row.append("td").text(data.Winner);
         row.append("td").text(data.Home_Team);
-        //row.append("td").text(data.Kickoff_Temp_(F));
+        row.append("td").text(data.Kickoff_Temp);
         row.append("td").text(data.Weahter_Element);
         row.append("td").text(data.Cloudiness);
         row.append("td").text(data.Stadium);
