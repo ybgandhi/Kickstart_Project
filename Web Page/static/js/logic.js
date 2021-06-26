@@ -12,7 +12,7 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
   id: "mapbox/dark-v10",
   accessToken: API_KEY
 }).addTo(myMap);
-
+   
 // link to get the geojson data.
 // var link = "locations.geojson";
 // L.geoJson(link).addTo(myMap);
