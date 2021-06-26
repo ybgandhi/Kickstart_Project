@@ -35,37 +35,43 @@ var stadiums = [
     name: "Soldier Field",
     locations: [41.8135,-74.0745],
     city: "Chicago",
-    team: "Bears"
+    team: "Bears",
+    conf: "NFC"
   },
   {
     name: "MetLife Stadium",
     locations: [40.8135,-74.0745],
     city: "New York",
-    team: "Jets"
+    team: "Jets",
+    conf: "AFC"
   },
   {
     name: "MetLife Stadium",
     locations: [40.8135,-74.0745],
     city: "New York",
-    team: "Giants"
+    team: "Giants",
+    conf: "NFC",
   },
   {
     name: "Lambeau Field",
     locations: [44.5013,-88.0622],
     city: "Green Bay",
-    team: "Packers"
+    team: "Packers",
+    conf: "NFC"
   },
   {
     name: "State Farm Stadium",
     locations: [33.5276,-112.2626],
     city: "Arizona",
-    team: "Cardinals"
+    team: "Cardinals",
+    conf: "NFC"
   },
   {
     name: "M&T Bank Stadium",
     locations: [39.2780,-76.6227],
     city: "Baltimore",
-    team: "Ravens"
+    team: "Ravens",
+    conf: "AFC"
   },
   {
     name: "New Era Field",
