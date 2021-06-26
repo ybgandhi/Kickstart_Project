@@ -1,4 +1,6 @@
-
+// Indentify and set variables for html field tags
+var tbody = d3.select("tbody");
+//var button = d3.select("filter-btn")
 
 var link = "./static/Table.json";
  //console.log(link);
@@ -8,7 +10,7 @@ var dataTable = JSON.parse(link);
 
 
 
-    function populateTable(){
+function populateTable(){
     dataTable.localeCompare(data =>{
         var row = tbody.append("tr");
         row.append("td").text(data.Season);
@@ -22,7 +24,7 @@ var dataTable = JSON.parse(link);
         row.append("td").text(data.Cloudiness);
         row.append("td").text(data.Stadium);
     });
-    }
+}
 populateTable(data);
 
 
