@@ -10,6 +10,7 @@ d3.json("./static/data/Table.json", function(data){
         row.append("td").text(data.Season);
         row.append("td").text(data.Month);
         row.append("td").text(data.Week);
+        row.append("td").text(data.Kickoff_Time);
         row.append("td").text(data.Winner);
         row.append("td").text(data.Home_Team);
         row.append("td").text(data.Kickoff_Temp);
