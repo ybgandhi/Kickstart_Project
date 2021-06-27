@@ -14,12 +14,12 @@ d3.json("./static/data/Table.json", function(data){
         row.append("td").text(data.Winner);
         row.append("td").text(data.Home_Team);
         row.append("td").text(data.Kickoff_Temp);
-        row.append("td").text(data.Weahter_Element);
+        row.append("td").text(data.Weather_Element);
         row.append("td").text(data.Cloudiness);
         row.append("td").text(data.Stadium);
     });
 
 });
-//populateTable(dataTable);
+
 
 
