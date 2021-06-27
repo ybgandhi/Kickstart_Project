@@ -9,10 +9,10 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
   tileSize: 513,
   maxZoom: 18,
   zoomOffset: -1,
-  id: "mapbox/dark-v10",
+  id: "mapbox/navigation-night-v1",
   accessToken: API_KEY
 }).addTo(myMap);
-   
+console.log(myMap)
 // link to get the geojson data.
 // var link = "locations.geojson";
 // L.geoJson(link).addTo(myMap);
@@ -219,5 +219,5 @@ var stadiums = [
 for (var i = 0; i < stadiums.length; i++) {
   L.marker(stadiums[i].locations, {
     title: stadiums[i].city,
-  }).bindPopup("<h5> Welcome to "+stadiums[i].name + "</h5> <hr> <h5> Home of the </h5> <hr> <h3>" + stadiums[i].team + "</h3>").addTo(myMap);
-}
+  }).bindPopup("<p> Welcome to "+stadiums[i].name + "</p> <img src='./static/images/stadiums/"+ stadiums[i].city + ".jpg' alt='' width='300' height='150'><p> Home of the " + stadiums[i].team + "<p>").addTo(myMap);
+};
