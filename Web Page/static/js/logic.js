@@ -160,7 +160,7 @@ var stadiums = [
   {
     name: "Heinz Field",
     locations: [40.4468,-80.0158],
-    city: "Pitssburgh",
+    city: "Pittsburgh",
     team: "Steelers",
     conf: "AFC"
   },
