@@ -47,7 +47,7 @@ var stadiums = [
   },
   {
     name: "MetLife Stadium",
-    locations: [40.8135,-74.0745],
+    locations: [40.8135,-74.1745],
     city: "New York",
     team: "Giants",
     conf: "NFC",
