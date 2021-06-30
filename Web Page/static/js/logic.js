@@ -1,6 +1,6 @@
 // Create an initial map object
 // Set the longitude, latitude, and the starting zoom level
-var myMap = L.map("map").setView([39.8283, -98.5795], 5);
+var myMap = L.map("map").setView([39.8283, -98.5795], 4);
 
 // Add a tile layer (the background map image) to our map
 // Use the addTo method to add objects to our map
@@ -215,10 +215,17 @@ var stadiums = [
   },
 
 ]
+
 // insert pictures for pop - ups
-for (var i = 0; i < stadiums.length; i++) {
-  L.marker(stadiums[i].locations, {
-    title: stadiums[i].city,
-  }).bindPopup("</p> <img src='./static/images/stadiums/"+ stadiums[i].city + ".jpg' alt='' width='300' height='150'><p>").addTo(myMap);
+function markers () {
+  for (var i = 0; i < stadiums.length; i++) {
+    L.marker(stadiums[i].locations, {
+      title: stadiums[i].city,
+    }).bindPopup("<p> <img src='./static/images/stadiums/"+ stadiums[i].city + ".jpg' alt='' width='300' height='150'></p><p>" + stadiums[i].name + "</p>").addTo(myMap);
+
+  };
 };
 
+function markerClick(teams) {
+  // if a marker is clicked, display the details of the team on the right side
+}

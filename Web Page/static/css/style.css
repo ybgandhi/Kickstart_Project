@@ -5,8 +5,14 @@ body {
 }
 
 /* set map, body, and html to 100% of the screen size */
-#map,
-body,
-html {
+#map {
+  height: 700px;
+  position: relative;
+  width: 100%;
+}
+
+#map-container {
+  position: relative;
   height: 100%;
+  width: inherit;
 }
