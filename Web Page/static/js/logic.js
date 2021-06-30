@@ -225,7 +225,3 @@ function markers () {
 
   };
 };
-
-function markerClick(teams) {
-  // if a marker is clicked, display the details of the team on the right side
-}
