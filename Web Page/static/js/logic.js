@@ -219,5 +219,5 @@ var stadiums = [
 for (var i = 0; i < stadiums.length; i++) {
   L.marker(stadiums[i].locations, {
     title: stadiums[i].city,
-  }).bindPopup("<p> Welcome to "+stadiums[i].name + "</p> <img src='./static/images/stadiums/"+ stadiums[i].city + ".jpg' alt='' width='300' height='150'><p> Home of the " + stadiums[i].team + "<p>").addTo(myMap);
+  }).bindPopup("</p> <img src='./static/images/stadiums/"+ stadiums[i].city + ".jpg' alt='' width='300' height='150'><p>").addTo(myMap);
 };
