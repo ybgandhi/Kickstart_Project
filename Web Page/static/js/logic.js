@@ -216,13 +216,21 @@ var stadiums = [
 
 ]
 
+var panel = d3.select("#team");
+panel.html("");
+
 // insert pictures for pop - ups
 function markers () {
   for (var i = 0; i < stadiums.length; i++) {
     L.marker(stadiums[i].locations, {
       title: stadiums[i].city,
+
+    })
+      .bindPopup("<p> <img src='./static/images/stadiums/"+ stadiums[i].city + ".jpg' alt='' width='300' height='150'></p><p>" + stadiums[i].name + "</p>", {
+          
+      })
       
-    }).bindPopup("<p> <img src='./static/images/stadiums/"+ stadiums[i].city + ".jpg' alt='' width='300' height='150'></p><p>" + stadiums[i].name + "</p>").addTo(myMap);
+      .addTo(myMap);
 
   };
 };
