@@ -235,10 +235,11 @@ function markers () {
 
     marker.on({
       click: function (e) {
-        
+        console.log("testing")
+        if (document.getElementById("tableinfoID").style.display === "none")
+          document.getElementById("tableinfoID").style.display = "block";
+          else document.getElementById("tableinfoID").style.display = "none";
       }
-    })
+    });
   };
-  
-
-  }
+};
