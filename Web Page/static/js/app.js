@@ -8,7 +8,7 @@ var inputMonth = d3.select("#month");
 
 //var button = d3.select("filter-btn")
 
-d3.json("./static/data/Table.json", function(data){
+var tableData = d3.json("./static/data/Table.json", function(data){
     console.log(data);
     data.forEach(function(data){
         var row = tbody.append("tr");
@@ -38,6 +38,9 @@ function handleClick() {
 
     var filteredTeam = data.filter(data => data.Home_Team === inputTeam);
     var filteredWeather = data.filter(data => data.Weather_Element === inputWeather);
-    
-}
+    var filteredCloud = data.filter(data => data.Cloudiness === inputCloud);
+    var filteredMonth = data.filter(data => data.Month === inputMonth);
+
+    //var filteredData = 
+};
 
