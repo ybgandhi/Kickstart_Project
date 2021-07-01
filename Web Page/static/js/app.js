@@ -31,7 +31,8 @@ var button1 = d3.select("#filter-btn");
 
 function handleClick() {
 
-    var inputeam = d3.select("team").property("value");
+    var inputSeason = d3.select("#season").property("value");
+    var inputeam = d3.select("#team").property("value");
     var inputWeather = d3.select("#weather").property("value");
     var inputCloud = d3.select("#cloud").property("value");
     var inputMonth = d3.select("#month").propert("value");
@@ -40,7 +41,8 @@ function handleClick() {
     var filteredWeather = data.filter(data => data.Weather_Element === inputWeather);
     var filteredCloud = data.filter(data => data.Cloudiness === inputCloud);
     var filteredMonth = data.filter(data => data.Month === inputMonth);
+    var filteredSeason = data.filter(data => data.Month === inputSeason);
 
-    //var filteredData = 
+    //var filteredData = tableData.filter(data => data.)
 };
 
