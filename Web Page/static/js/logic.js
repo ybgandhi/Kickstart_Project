@@ -243,3 +243,5 @@ function markers () {
     });
   };
 };
+
+markers();
