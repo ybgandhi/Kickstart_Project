@@ -1,5 +1,11 @@
 // Indentify and set variables for html field tags
 var tbody = d3.select("tbody");
+var button = d3.select("#filter-btn");
+var inputTeam = d3.select("#team");
+var inputWeather = d3.select("#weather");
+var inputCloud = d3.select("#cloud");
+var inputMonth = d3.select("#month");
+
 //var button = d3.select("filter-btn")
 
 d3.json("./static/data/Table.json", function(data){
