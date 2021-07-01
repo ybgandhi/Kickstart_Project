@@ -236,7 +236,3 @@ function markers () {
   });
 };
 markers();
-
-var table = {
-
-}
