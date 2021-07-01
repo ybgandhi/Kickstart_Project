@@ -219,6 +219,10 @@ var stadiums = [
 
 ];
 
+var Team = d3.select("#team").property("value");
+var inputCity = d3.select("#hometown").property("value");
+var inputConf = d3.select("#conf").property("value");
+
 // insert pictures for pop - ups
 function markers () {
 
@@ -232,9 +236,12 @@ function markers () {
     .bindPopup("<p> <img src='./static/images/stadiums/"+ stadiums[i].city + ".jpg' alt='' width='300' height='150'></p><p>" + stadiums[i].name + "</p>").addTo(myMap);
 
     // click event to update table when maker clicked
-
+    var inputTeam = stadiums[i].team;
+    console.log(inputTeam);
     marker.on({
       click: function (e) {
+        
+        
         console.log("testing")
         if (document.getElementById("tableinfoID").style.display === "none")
           document.getElementById("tableinfoID").style.display = "block";

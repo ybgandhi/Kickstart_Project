@@ -13,7 +13,9 @@
         integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
         crossorigin=""/>
      <!-- Our CSS -->
-    <link rel="stylesheet" type="text/css" href="./static/css/style.css">    
+    <link rel="stylesheet" type="text/css" href="./static/css/style.css">
+    <!--D3-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>    
 </head>
 
 <nav>
@@ -62,17 +64,17 @@
             <h4 class="panel-title">Team Info</h4>
             <div id="team">
               <div style="display: none" id="tableinfoID" class="placeholder">
-                <table id="tableinfoID2"  cellpadding="1" cellspacing="0" border="3">
+                <table id="tableinfoID2" width="100%" cellpadding="1" cellspacing="0">
                   <tr>
                     <td>picture of team</td>
                   </tr>
                   <tr>
                     <td>Team Name:</td>
-                    <td id="team">"team name"</td>
+                    <td id="team">"teamname"</td>
                   </tr>
                   <tr>
                     <td>City</td>
-                    <td id="Hometown">"city name"</td>
+                    <td id="hometown">"city name"</td>
                   </tr>
                   <tr>
                     <td>Conference</td>
@@ -96,6 +98,7 @@
     <script type="text/javascript" src="./static/js/config.js"></script>
     <!-- JS -->
     <script type="text/javascript" src="./static/js/logic.js"></script>
+    
 </body>
   
 </html>
