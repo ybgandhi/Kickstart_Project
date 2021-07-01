@@ -1,6 +1,9 @@
 // Create an initial map object
 // Set the longitude, latitude, and the starting zoom level
-var myMap = L.map("map").setView([39.8283, -98.5795], 4);
+var myMap = L.map("map", {
+  center: [39.8283, -98.5795],
+  zoom: 4
+});
 
 // Add a tile layer (the background map image) to our map
 // Use the addTo method to add objects to our map
@@ -214,23 +217,26 @@ var stadiums = [
     conf: "NFC"
   },
 
-]
-
-var panel = d3.select("#team");
-panel.html("");
+];
 
 // insert pictures for pop - ups
 function markers () {
+
   for (var i = 0; i < stadiums.length; i++) {
+
     L.marker(stadiums[i].locations, {
-      title: stadiums[i].city,
-
+      title: stadiums[i].city
     })
-      .bindPopup("<p> <img src='./static/images/stadiums/"+ stadiums[i].city + ".jpg' alt='' width='300' height='150'></p><p>" + stadiums[i].name + "</p>", {
-          
-      })
-      
-      .addTo(myMap);
 
+    .bindPopup("<p> <img src='./static/images/stadiums/"+ stadiums[i].city + ".jpg' alt='' width='300' height='150'></p><p>" + stadiums[i].name + "</p>").addTo(myMap)
   };
+  
+  myMap.on("click", function(stadiums){
+    console.log(stadiums[i].name);
+  });
 };
+markers();
+
+var table = {
+
+}
