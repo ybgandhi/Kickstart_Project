@@ -27,5 +27,17 @@ d3.json("./static/data/Table.json", function(data){
 
 });
 
+var button1 = d3.select("#filter-btn");
 
+function handleClick() {
+
+    var inputeam = d3.select("team").property("value");
+    var inputWeather = d3.select("#weather").property("value");
+    var inputCloud = d3.select("#cloud").property("value");
+    var inputMonth = d3.select("#month").propert("value");
+
+    var filteredTeam = data.filter(data => data.Home_Team === inputTeam);
+    var filteredWeather = data.filter(data => data.Weather_Element === inputWeather);
+    
+}
 
