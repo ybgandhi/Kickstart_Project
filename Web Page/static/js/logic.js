@@ -224,11 +224,20 @@ function markers () {
 
   for (var i = 0; i < stadiums.length; i++) {
 
-    L.marker(stadiums[i].locations, {
+    var marker = L.marker(stadiums[i].locations, {
       title: stadiums[i].city
     })
 
-    .bindPopup("<p> <img src='./static/images/stadiums/"+ stadiums[i].city + ".jpg' alt='' width='300' height='150'></p><p>" + stadiums[i].name + "</p>").addTo(myMap)
+    // bind popup to chow picture of stadium and name of stadium 
+    .bindPopup("<p> <img src='./static/images/stadiums/"+ stadiums[i].city + ".jpg' alt='' width='300' height='150'></p><p>" + stadiums[i].name + "</p>").addTo(myMap);
+
+    // click event to update table when maker clicked
+
+    marker.on({
+      click: function (e) {
+        
+      }
+    })
   };
   
 
