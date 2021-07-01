@@ -231,8 +231,5 @@ function markers () {
     .bindPopup("<p> <img src='./static/images/stadiums/"+ stadiums[i].city + ".jpg' alt='' width='300' height='150'></p><p>" + stadiums[i].name + "</p>").addTo(myMap)
   };
   
-  myMap.on("click", function(stadiums){
-    console.log(stadiums[i].name);
-  });
-};
-markers();
+
+  }
