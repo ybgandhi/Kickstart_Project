@@ -12,7 +12,7 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
   tileSize: 513,
   maxZoom: 10,
   zoomOffset: -1,
-  id: "mapbox/navigation-night-v1",
+  id: "mapbox/dark-v10",
   accessToken: API_KEY
 }).addTo(myMap);
 console.log(myMap)
