@@ -24,10 +24,7 @@ google.charts.setOnLoadCallback(drawChart);
           ['Fog/Mist', 4,0,1,4,1,2],
           ['Rain - Heavy', 1,0,0,5,0,8],
           ['Rain - Light', 41,1,7,52,38,61],
-          ['Rain - Normal', 5,0,11,10,15,15],
-          ['Snow - Heavy', 6,0,2,2,0,0],
-          ['Snow - Light', 2,0,0,0,0,0],
-          ['Snow - Normal', 4,0,2,0,0,0]
+          ['Rain - Normal', 5,0,11,10,15,15]
         ]);
 
         // Set chart options
@@ -40,3 +37,33 @@ google.charts.setOnLoadCallback(drawChart);
         var chart = new google.visualization.ColumnChart(document.getElementById('chart_div'));
         chart.draw(data, options);
     }
+
+    function drawChart() {
+        // Create the data table.
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Weather Element');
+        data.addColumn('number', 'Dec');
+        data.addColumn('number', 'Feb');
+        data.addColumn('number', 'Jan');
+        data.addColumn('number', 'Nov');
+        data.addColumn('number', 'Oct');
+        data.addColumn('number', 'Sep');
+
+        data.addRows([
+          ['Snow - Heavy', 6,0,2,2,0,0],
+          ['Snow - Light', 2,0,0,0,0,0],
+          ['Snow - Normal', 4,0,2,0,0,0]
+        ]);
+
+        var options = {
+            'title': 'Snowy Weather by Months',
+            'width': 700,
+            'height': 500,
+            'isStacked': true};
+        
+        var chart = new google.visualization.ColumnChart(document.getElementById('chart_div2'));
+        chart.draw(data, options);
+        }
+
+
+    
