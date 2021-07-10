@@ -1,7 +1,4 @@
-
-
-google.charts.load('current', {
-    'packages': ['geochart'],
-    'mapsApiKey': 'AIzaSyDaitMmdez8-84gXeNXolUP36yRWs3iNR4'
-});
+google.charts.load('current', {'packages':['corechart']});
+      // Set a callback to run when the Google Visualization API is loaded.
+google.charts.setOnLoadCallback(drawChart);
 
