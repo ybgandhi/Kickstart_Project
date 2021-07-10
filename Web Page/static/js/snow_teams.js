@@ -19,6 +19,6 @@ function drawChart() {
       height: 400
     };
 
-    var chart = new google.visualization.PieChart(document.getElementById('rain-pie'));
+    var chart = new google.visualization.PieChart(document.getElementById('snow-pie'));
     chart.draw(data, options);
   }
