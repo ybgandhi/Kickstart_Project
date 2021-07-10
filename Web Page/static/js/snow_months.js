@@ -29,7 +29,7 @@ google.charts.setOnLoadCallback(drawChart);
         var options = {
             'title': 'Snowy Weather by Months',
             'width': 500,
-            'height': 550,
+            'height': 600,
             'isStacked': true};
         
         var chart = new google.visualization.ColumnChart(document.getElementById('chart_div2'));

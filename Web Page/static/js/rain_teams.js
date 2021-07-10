@@ -8,15 +8,17 @@ function drawChart() {
       ['Chicago',19],
       ['Oakland',19],
       ['Baltimore',17],
-      ['New England', 16],
-      ['Sleep',    7]
+      ['New England',16],
+      ['Tampa Bay',16]
     ]);
 
     var options = {
-      title: 'My Daily Activities',
+      title: 'Top 5 Cities with the most Rain games',
       is3D: true,
+      width: 1160,
+      height: 400
     };
 
-    var chart = new google.visualization.PieChart(document.getElementById('piechart_3d'));
+    var chart = new google.visualization.PieChart(document.getElementById('rain-pie'));
     chart.draw(data, options);
   }
