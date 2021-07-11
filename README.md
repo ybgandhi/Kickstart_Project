@@ -26,3 +26,5 @@ Background: Football is one of the most popular American sports. Some of the mos
 * map.js -> load map and click event functionalities on 'Map.html' page
 * datatable.js -> load entire dataset to 'DataTabel.html' using CSV that was exported from Python
 * data.js -> team information that is used to be loaded into 'Map.html', the script is called upon when click event is intiated
+* jquery.csv.min.js -> used to parse csv information so Google library can read the data once it is converted into an Array
+* rain_teams.js / snow_teams.js / snow_months.js / rain_months.js -> all used to load google powered charts
