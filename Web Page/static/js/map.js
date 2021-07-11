@@ -219,9 +219,9 @@ var stadiums = [
 
 ];
 
-//var Team = d3.select("#team").property("value");
-//var inputCity = d3.select("#hometown").property("value");
-//var inputConf = d3.select("#conf").property("value");
+
+var inputCity = d3.select("#hometown").property("value");
+var inputConf = d3.select("#conf").property("value");
 
 // insert pictures for pop - ups
 function markers () {
@@ -229,28 +229,30 @@ function markers () {
   for (var i = 0; i < stadiums.length; i++) {
 
     var marker = L.marker(stadiums[i].locations, {
-      title: stadiums[i].city
+      name: stadiums[i].team,
+      city: stadiums[i].city,
+      
     })
 
     // bind popup to chow picture of stadium and name of stadium 
-    .bindPopup("<p> <img src='./static/images/stadiums/"+ stadiums[i].city + ".jpg' alt='' width='300' height='150'></p><p>" + stadiums[i].name + "</p>").addTo(myMap);
+    .bindPopup("<p> <img src='./static/images/stadiums/"+ stadiums[i].city + ".jpg' alt='' width='300' height='150'></p><p>" + stadiums[i].name + "</p>")
+    .addTo(myMap)
 
-    // click event to update table when maker clicked
-    //var inputTeam = stadiums[i].team;
-    // console.log(inputTeam);
-    // marker.on({
-    //   click: function (e) {
+    // click event to populate table on the right side
+    .on({
+      click: function (team_infro) {
+
+        // make table appear / disappear on click
+        //if (document.getElementById("tableinfoID").style.display === "none")
+        document.getElementById("tableinfoID").style.display = "block";
+          //else document.getElementById("tableinfoID").style.display = "none";
         
-        
-    //     console.log("testing")
-    //     if (document.getElementById("tableinfoID").style.display === "none")
-    //       document.getElementById("tableinfoID").style.display = "block";
-    //       else document.getElementById("tableinfoID").style.display = "none";
-    //   }
-    // });
+          var name = d3.select("team")
+
+      }
+    });
   };
 };
 
 markers();
 
-console.log(API_KEY);
