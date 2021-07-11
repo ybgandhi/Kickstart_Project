@@ -15,8 +15,11 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
   id: "mapbox/dark-v10",
   accessToken: API_KEY
 }).addTo(myMap);
-console.log(myMap)
-
+//console.log(myMap)
+   // make table appear / disappear on click
+//if (document.getElementById("tableinfoID").style.display === "none")
+document.getElementById("tableinfoID").style.display = "block";
+//else document.getElementById("tableinfoID").style.display = "none";
 
 // insert markers and their functionalities
 function markers () {
@@ -24,10 +27,10 @@ function markers () {
   for (var i = 0; i < stadiums.length; i++) {
 
     var marker = L.marker(stadiums[i].locations, {
+      
+      hometown: stadiums[i].city,
       team: stadiums[i].team,
-      city: stadiums[i].city,
-      conf: stadiums[i].conf
-
+      conf: stadiums[i].conf,
     })
 
     // bind popup to chow picture of stadium and name of stadium 
@@ -36,29 +39,15 @@ function markers () {
 
     // click event to populate table on the right side
     .on({
-      click: function (e) {
-
-        // make table appear / disappear on click
-        //if (document.getElementById("tableinfoID").style.display === "none")
-        document.getElementById("tableinfoID").style.display = "block";
-          //else document.getElementById("tableinfoID").style.display = "none";
-        
-        // console team name of selected marker
-        //console.log(e.target.options.team);
-
-        // add team information to table
+      click: function(e){
+        console.log(e.target.options)
+        var city = document.getElementById("city");
+        city.innerHTML = e.target.options.hometown;
         var team = document.getElementById("team");
         team.innerHTML = e.target.options.team;
-        var city = document.getElementById("city");
-        city.innerHTML = e.target.options.city;
         var conf = document.getElementById("conf");
         conf.innerHTML = e.target.options.conf;
-
-
-        
-
-      }
-    });
+      }});
   };
 };
 

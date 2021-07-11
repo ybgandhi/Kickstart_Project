@@ -152,7 +152,7 @@ var stadiums = [
       name: "Levis Stadium",
       locations: [37.4032,-121.9697],
       city: "San Francisco",
-      team: "49ners",
+      team: "49ers",
       conf: "NFC"
     },
     {
