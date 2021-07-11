@@ -19,4 +19,10 @@ Background: Football is one of the most popular American sports. Some of the mos
 * Used World Wide Weather Online to get free historical weather data from July 2008 - February 2019 (NFL Seasons 2008/09 - 2018/19)
 * Issues with the city of Tennessee in original API pull, a later update will be required to rerun API loop specifically for the Titans team.
 * Exported data into csv and json
+* Python Flask to be set up in a later update
 
+# Javascript
+* config.js -> API Key
+* map.js -> load map and click event functionalities on 'Map.html' page
+* datatable.js -> load entire dataset to 'DataTabel.html' using CSV that was exported from Python
+* data.js -> team information that is used to be loaded into 'Map.html', the script is called upon when click event is intiated
